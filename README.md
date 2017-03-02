@@ -14,5 +14,9 @@ A list of meetups I went through the year 2017
     * Rompiendo el mundo binario con Vue.js - Ignacio Anaya 
     * Lo que viene en fútbol de primera Next.js 2.0 - Dan Zajdband
     
+* React.js -  Miércoles 1 de Marzo - Restorando HQ - Vuelta de Obligado 1947
+   * Creando una app en 2 meses con react-native - Gabriel Miranda
+    
+    
 ___
 
