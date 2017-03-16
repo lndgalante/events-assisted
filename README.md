@@ -17,6 +17,10 @@ A list of meetups I went through the year 2017
 * React.js -  Miércoles 1 de Marzo - Restorando HQ - Vuelta de Obligado 1947
    * Creando una app en 2 meses con react-native - Gabriel Miranda
     
+* BANode -  Miércoles 15 de Marzo - MercadoLibre - Av. Leandro N. Alem 518
+   * Javascript TDD for the 21st century - Cristian Pereyra
+   * Firebase + Node - Laura Morinigo
+    
     
 ___
 
