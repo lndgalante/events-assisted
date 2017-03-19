@@ -24,6 +24,10 @@ A list of meetups I went through the year 2017
 * MeetupJS -  Jueves 16 de Marzo - Restorando HQ - Vuelta de Obligado 1947
    * Elm for World Peace - Ainu Jorge Chambeaud Helguera
    * Progressive Web Apps con Ember - Samanta de Barros
+
+* LaPlataJS -  Jueves 16 de Marzo - Snappler - Diagonal 77 444
+   * PostCSS... o CSS con esteroides - Lourdes Montano
+   * Seguridad en Aplicaciones Node.js - Alejandro Oviedo
     
     
 ___
