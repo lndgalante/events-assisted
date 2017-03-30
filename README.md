@@ -29,6 +29,9 @@ A list of meetups I went through the year 2017
    * PostCSS... o CSS con esteroides - Lourdes Montano
    * Seguridad en Aplicaciones Node.js - Alejandro Oviedo
     
-    
+* React.js -  Miércoles 30 de Marzo - DigitalHouse - Lima 1111
+   * Un paseo por sobre la locura - Alejandro Hernández
+   * Introducción a Jest - Lautaro Gruss
+
 ___
 
