@@ -1,6 +1,10 @@
 # meetups-assisted
 A list of meetups I went through the year 2017
 
+```javascript
+let futbol.js = 2
+```
+
 * Nardoz - Jueves 2 de Febrero - JamppHQ - Honduras 5952
     * WebVR pa’ los pibes (y las pibas también) - Dan Zajdband
     * How to (maybe) structure a React application - Karen Serfaty
