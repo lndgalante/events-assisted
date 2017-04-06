@@ -37,5 +37,9 @@ let futbol.js = 2
    * Un paseo por sobre la locura - Alejandro Hernández
    * Introducción a Jest - Lautaro Gruss
 
+* GraphQL BA -  Miércoles 5 de Abril - Restorando HQ - Vuelta de Obligado 1947
+   * Probablemente necesites GraphQL - Belen Curcio
+   * GraphQL real-time con Subscriptions - Julio Olivera
+
 ___
 
