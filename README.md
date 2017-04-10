@@ -2,7 +2,8 @@
 A list of meetups I went through the year 2017
 
 ```javascript
-let futbol.js = 2
+let futbolJS = 3
+let hackathons = 1
 ```
 
 * Nardoz - Jueves 2 de Febrero - JamppHQ - Honduras 5952
