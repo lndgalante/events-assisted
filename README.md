@@ -42,5 +42,10 @@ let hackathons = 1
    * Probablemente necesites GraphQL - Belen Curcio
    * GraphQL real-time con Subscriptions - Julio Olivera
 
+* MeetupJS -  Jueves 20 de Abril - MercadoLibre - Av. Leandro N. Alem 518
+   * Firebase, una nueva forma de mejorar tus aplicaciones - Laura Morinigo 
+   * Cross-platform Desktop Apps con Electron - Miguel Barocchi
+   
+      
 ___
 
