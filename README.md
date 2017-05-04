@@ -49,6 +49,10 @@ let hackathons = 1
 * BANode - Jueves 27 de Abril - Wolox - Güemes 4673
    * Como Sobrevivir a su PM - Christian Podesta
    * Node + Parse + Auth0 = user.space - Sebastian Javier Marchano
+
+* FDV Frontenders - Jueves 27 de Abril - Wolox - Güemes 4673
+   * Fundamentos de JS
+   * Performance en React
       
 ___
 
