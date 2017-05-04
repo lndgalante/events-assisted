@@ -51,8 +51,8 @@ let hackathons = 1
    * Node + Parse + Auth0 = user.space - Sebastian Javier Marchano
 
 * FDV Frontenders - Miércoles 4 de Mayo - FDV Solutions - Av. Belgrano 1580
-   * Fundamentos de JS
-   * Performance en React
+   * Fundamentos de JS - Daniel Mata
+   * Performance en React - Francisco Puyo & Sebastian Bogado
       
 ___
 
