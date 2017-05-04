@@ -50,7 +50,7 @@ let hackathons = 1
    * Como Sobrevivir a su PM - Christian Podesta
    * Node + Parse + Auth0 = user.space - Sebastian Javier Marchano
 
-* FDV Frontenders - Jueves 27 de Abril - Wolox - Güemes 4673
+* FDV Frontenders - Miércoles 4 de Mayo - FDV Solutions - Av. Belgrano 1580
    * Fundamentos de JS
    * Performance en React
       
