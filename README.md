@@ -54,5 +54,9 @@ let hackathons = 1
    * Fundamentos de JS - Daniel Mata
    * Performance en React - Francisco Puyo & Sebastian Bogado
       
+* MeetupJS - Martes 23 de Mayo - Flowics - Costa Rica 5546
+   * Navegación en React Native, opciones para no caer en la locura - Eleonora Lester  
+   * Flow(type) for the Brave & True - Mariano Cortesi
+
 ___
 
