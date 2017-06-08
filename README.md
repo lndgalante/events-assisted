@@ -58,5 +58,9 @@ let hackathons = 1
    * Navegación en React Native, opciones para no caer en la locura - Eleonora Lester  
    * Flow(type) for the Brave & True - Mariano Cortesi
 
+* ReactJS - Miércoles 8 de Junio - GlobalLogic - Av. Corrientes 485
+   * Introducción a Next.js - blazing fast server rendered react apps - Gabriel Miranda
+
+
 ___
 
