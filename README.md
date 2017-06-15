@@ -59,7 +59,11 @@ let hackathons = 1
    * Flow(type) for the Brave & True - Mariano Cortesi
 
 * ReactJS - Miércoles 8 de Junio - GlobalLogic - Av. Corrientes 485
-   * Introducción a Next.js - blazing fast server rendered react apps - Gabriel Miranda
+   * Introducción a Next.js, Blazing fast server rendered react apps - Gabriel Miranda
+
+* ReactJS - Miércoles 14 de Junio - Medallia - Humboldt 1550
+   * ClojureScript con ReactJS - Nicolás Berger
+
 
 
 ___
