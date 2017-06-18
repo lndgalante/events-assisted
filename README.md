@@ -1,11 +1,6 @@
 # meetups-assisted
 A list of meetups I went through the year 2017
 
-```javascript
-let futbolJS = 3
-let hackathons = 1
-```
-
 * Nardoz - Jueves 2 de Febrero - JamppHQ - Honduras 5952
     * WebVR pa’ los pibes (y las pibas también) - Dan Zajdband
     * How to (maybe) structure a React application - Karen Serfaty
@@ -15,11 +10,11 @@ let hackathons = 1
     * El poder de la comunidad - Development en proyectos open-source - Victoria Martínez de la Cruz
     * Arquitecturas basadas en funciones usando Serverless.io - Ezequiel Gonzalez Rial
     
-* Meetup.js - Jueves 16 de Febrero - Southworks - Perú 375
+* MeetupJS - Jueves 16 de Febrero - Southworks - Perú 375
     * Rompiendo el mundo binario con Vue.js - Ignacio Anaya 
     * Lo que viene en fútbol de primera Next.js 2.0 - Dan Zajdband
     
-* React.js - Miércoles 1 de Marzo - Restorando HQ - Vuelta de Obligado 1947
+* ReactJS- Miércoles 1 de Marzo - Restorando HQ - Vuelta de Obligado 1947
    * Creando una app en 2 meses con react-native - Gabriel Miranda
     
 * BANode - Miércoles 15 de Marzo - MercadoLibre - Av. Leandro N. Alem 518
@@ -34,13 +29,16 @@ let hackathons = 1
    * PostCSS... o CSS con esteroides - Lourdes Montano
    * Seguridad en Aplicaciones Node.js - Alejandro Oviedo
     
-* React.js - Miércoles 30 de Marzo - DigitalHouse - Lima 1111
+* ReactJS - Miércoles 30 de Marzo - DigitalHouse - Lima 1111
    * Un paseo por sobre la locura - Alejandro Hernández
    * Introducción a Jest - Lautaro Gruss
 
 * GraphQL BA - Miércoles 5 de Abril - Restorando HQ - Vuelta de Obligado 1947
    * Probablemente necesites GraphQL - Belen Curcio
    * GraphQL real-time con Subscriptions - Julio Olivera
+
+* ReactJS - Miércoles 5 de Abril - MuleSoft - Juana Manso 999 6to piso (YouTube)
+   * Performance Engineering con React + Redux - Juan Cazala
 
 * MeetupJS - Jueves 20 de Abril - MercadoLibre - Av. Leandro N. Alem 518
    * Firebase, una nueva forma de mejorar tus aplicaciones - Laura Morinigo 
