@@ -62,7 +62,9 @@ A list of meetups I went through the year 2017
 * ReactJS - Miércoles 14 de Junio - Medallia - Humboldt 1550
    * ClojureScript con ReactJS - Nicolás Berger
 
-
+* MeetupJS - Miércoles 21 de Junio - Medallia - Humboldt 1550
+   * AST a la vista baby - Leonardo Garcia Crespo 
+   * Arquitecturas Empresariales escalables Front-end - Andres Mijares
 
 ___
 
