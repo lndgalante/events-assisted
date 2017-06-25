@@ -1,5 +1,5 @@
 # meetups-assisted
-A list of meetups I assisted through the year
+> 👨‍🏫 A list of meetups I assisted
 
 ## 2017
 
