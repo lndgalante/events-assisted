@@ -73,5 +73,7 @@ A list of meetups and conferences I assisted
    * AST a la vista baby - Leonardo Garcia Crespo 
    * Arquitecturas Empresariales escalables Front-end - Andres Mijares
 
+* [<b>Tech Talks</b> - <i>Miércoles 28 de Junio, 2017 - Globant Laminar - </i>](https://www.meetup.com/es-ES/Tech-Talks-Globant/events/240964014)
+   * React Fiber: Una mirada al futuro de React - Claudio Nieva Scarpatti 
 ___
 
