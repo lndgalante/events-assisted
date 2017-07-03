@@ -1,5 +1,5 @@
 # events-assisted
-A list of conferences, hackathons and meetups I assisted
+👨‍🏫 A list of conferences, hackathons and meetups I assisted
 
 ## Conferences
 * [<b>CSSconf Argentina</b> - <i>7 de Agosto, 2016</i>](http://cssconfar.com)
