@@ -1,4 +1,4 @@
-# meetups-conferences-assisted
+# events-assisted
 A list of conferences, hackathons and meetups I assisted
 
 ## Conferences
