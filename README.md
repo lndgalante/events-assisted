@@ -6,6 +6,10 @@ A list of meetups and conferences I assisted
 * [<b>NodeConf Argentina</b> - <i>17 - 19 de Noviembre, 2016</i>](https://2016.nodeconf.com.ar)
 * [<b>DevDay Argentina</b> - <i>3 de Diciembre, 2016</i>](http://devday-ar.com)
 
+## Hackathons
+* [<b>AngelHack Argentina</b> - <i>2, 3 de Julio, 2016</i>](http://angelhack.com/angelhack-buenos-aires-2016)
+* [<b>Hack the World Argentina</b> - <i>8, 9 de Abril, 2016</i>](https://hacktheworld.beer/Argentina_2017)
+
 ## Meetups
 
 * [<b>Nardoz</b> - <i>Jueves 2 de Febrero, 2017 - JamppHQ - Honduras 5952</i>](https://www.meetup.com/es-ES/Nardoz/events/237054879)
