@@ -77,7 +77,10 @@
    * AST a la vista baby - Leonardo Garcia Crespo 
    * Arquitecturas Empresariales escalables Front-end - Andres Mijares
 
-* [<b>Tech Talks</b> - <i>Miércoles 28 de Junio, 2017 - Globant Laminar - </i>](https://www.meetup.com/es-ES/Tech-Talks-Globant/events/240964014)
+* [<b>Tech Talks</b> - <i>Miércoles 28 de Junio, 2017 - Globant Laminar - Ing. Butty 240 </i>](https://www.meetup.com/es-ES/Tech-Talks-Globant/events/240964014)
    * React Fiber: Una mirada al futuro de React - Claudio Nieva Scarpatti 
+
+* [<b>ReactJS</b> - <i>Martes 4 de Julio, 2017 - QuadMinds - Araoz 1146 </i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/241086867)
+   * Utilizando componentes de D3 en React + Redux + Sagas - Javier Caste
 ___
 
