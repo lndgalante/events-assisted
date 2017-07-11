@@ -22,7 +22,7 @@
     * Arquitecturas basadas en funciones usando Serverless.io - Ezequiel Gonzalez Rial
     
 * [<b>MeetupJS</b> - <i>Jueves 16 de Febrero, 2017 - Southworks - Perú 375</i>](https://www.meetup.com/es-ES/Meetup-js/events/237609108)
-    * Rompiendo el mundo binario con Vue.js - Ignacio Anaya
+    * Rompiendo el mundo binario con Vue.js - Ignacio Anaya
     * Lo que viene en fútbol de primera Next.js 2.0 - Dan Zajdband
     
 * [<b>ReactJS</b> - <i>Miércoles 1 de Marzo, 2017 - Restorando HQ - Vuelta de Obligado 1947</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/237502568)
