@@ -82,5 +82,10 @@
 
 * [<b>ReactJS</b> - <i>Martes 4 de Julio, 2017 - QuadMinds - Araoz 1146 </i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/241086867)
    * Utilizando componentes de D3 en React + Redux + Sagas - Javier Caste
+
+* [<b>freeCodeCampBA</b> - <i>Doming 23 de Julio, 2017 - Wolox - Guemes 4673 </i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/241662741)
+   * Introducción a Ruby on Rails - Hugo Farji
+
+   
 ___
 
