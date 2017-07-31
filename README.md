@@ -7,7 +7,7 @@
 * [<b>DevDay Argentina</b> - <i>3 de Diciembre, 2016</i>](http://devday-ar.com)
 
 ## Hackathons
-* [<b>AngelHack Argentina</b> - <i>2, 3 de Julio, 2016</i>](http://angelhack.com/angelhack-buenos-aires-2016)
+* [<b>AngelHack Argentina 🥇</b> - <i>2, 3 de Julio, 2016</i>](http://angelhack.com/angelhack-buenos-aires-2016)
 * [<b>Hack the World Argentina</b> - <i>8, 9 de Abril, 2016</i>](https://hacktheworld.beer/Argentina_2017)
 
 ## Meetups
@@ -77,13 +77,13 @@
    * AST a la vista baby - Leonardo Garcia Crespo 
    * Arquitecturas Empresariales escalables Front-end - Andres Mijares
 
-* [<b>Tech Talks</b> - <i>Miércoles 28 de Junio, 2017 - Globant Laminar - Ing. Butty 240 </i>](https://www.meetup.com/es-ES/Tech-Talks-Globant/events/240964014)
+* [<b>Tech Talks</b> - <i>Miércoles 28 de Junio, 2017 - Globant Laminar - Ing. Butty 240</i>](https://www.meetup.com/es-ES/Tech-Talks-Globant/events/240964014)
    * React Fiber: Una mirada al futuro de React - Claudio Nieva Scarpatti 
 
-* [<b>ReactJS</b> - <i>Martes 4 de Julio, 2017 - QuadMinds - Araoz 1146 </i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/241086867)
+* [<b>ReactJS</b> - <i>Martes 4 de Julio, 2017 - QuadMinds - Araoz 1146</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/241086867)
    * Utilizando componentes de D3 en React + Redux + Sagas - Javier Caste
 
-* [<b>freeCodeCampBA</b> - <i>Doming 23 de Julio, 2017 - Wolox - Guemes 4673 </i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/241662741)
+* [<b>freeCodeCampBA S02E11</b> - <i>Doming 23 de Julio, 2017 - Wolox - Guemes 4673</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/241662741)
    * Introducción a Ruby on Rails - Hugo Farji
 
    
