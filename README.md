@@ -26,7 +26,7 @@
     * Lo que viene en fútbol de primera Next.js 2.0 - Dan Zajdband
     
 * [<b>ReactJS</b> - <i>Miércoles 1 de Marzo, 2017 - Restorando HQ - Vuelta de Obligado 1947</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/237502568)
-   * Creando una app en 2 meses con react-native - Gabriel Miranda
+   * Creando una app en 2 meses con React Native - Gabriel Miranda
     
 * [<b>BANode</b> - <i>Miércoles 15 de Marzo, 2017 - MercadoLibre - Av. Leandro N. Alem 518</i>](https://www.meetup.com/es-ES/banodejs/events/238296787)
    * Javascript TDD for the 21st century - Cristian Pereyra
