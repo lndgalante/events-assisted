@@ -86,6 +86,12 @@
 * [<b>freeCodeCampBA S02E11</b> - <i>Doming 23 de Julio, 2017 - Wolox - Guemes 4673</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/241662741)
    * Introducción a Ruby on Rails - Hugo Farji
 
+* [<b>BA Mobile</b> - <i>Jueves 3 de Agosto, 2017 - Wolox - Guemes 4673</i>](https://www.meetup.com/es-ES/Buenos-Aires-Mobile-Meetup/events/241855897)
+   * A portal from Elm to Swift - Guido Marucci Blas
+   * Automatización en Mobile - Damián Finkelstein
+   * Ingredientes para hacer una app rebelde - Juan Ignacio Molina
+
+
    
 ___
 
