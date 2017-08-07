@@ -91,6 +91,8 @@
    * Automatización en Mobile - Damián Finkelstein
    * Ingredientes para hacer una app rebelde - Juan Ignacio Molina
 
+* [<b>freeCodeCampBA S02E12</b> - <i>Doming 6 de Agosto, 2017 - Aerolab - Juana Azurduy 2440</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/242165714)
+   * Manipulación del DOM - Roy Eden
 
    
 ___
