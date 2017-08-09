@@ -94,6 +94,10 @@
 * [<b>freeCodeCampBA S02E12</b> - <i>Doming 6 de Agosto, 2017 - Aerolab - Juana Azurduy 2440</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/242165714)
    * Manipulación del DOM - Roy Eden
 
+* [<b>Nardoz</b> - <i>Martes 8 de Agosto, 2017 - Auth0 - El Salvador 5718</i>](https://www.meetup.com/es-ES/Nardoz/events/242294715)
+    * React Storybook & Snapshot Testing - Soledad Pano
+    * Lecciones aprendidas con Elasticsearch en AWS - Lucia Brizuela
+    * Polybox container en Docker - Marcos Nils
    
 ___
 
