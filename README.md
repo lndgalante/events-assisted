@@ -98,6 +98,9 @@
     * React Storybook & Snapshot Testing - Soledad Pano
     * Lecciones aprendidas con Elasticsearch en AWS - Lucia Brizuela
     * Polybox container en Docker - Marcos Nils
+
+* [<b>Pasión por la Tecnología</b> - <i>Jueves 17 de Agosto, 2017 - EXO - Av. Chiclana 3444</i>](https://www.meetup.com/es-ES/Pasion-por-la-tecnologia/events/241684540)
+    * Los navegadores y cómo afectan a nuestros servicios - Ezequiel Maraschio 
    
 ___
 
