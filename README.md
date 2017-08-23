@@ -102,5 +102,9 @@
 * [<b>Pasión por la Tecnología</b> - <i>Jueves 17 de Agosto, 2017 - EXO - Av. Chiclana 3444</i>](https://www.meetup.com/es-ES/Pasion-por-la-tecnologia/events/241684540)
     * Los navegadores y cómo afectan a nuestros servicios - Ezequiel Maraschio 
    
+* [<b>MeetupJS</b> - <i>Martes 22 de Agosto, 2017 - MuleSoft - Juana Manso 999</i>](https://www.meetup.com/es-ES/Meetup-js/events/242439836)
+    * PWA Garbarino una experiencia real - Leonardo Pitelli
+    * Introducción a Firebase - Carolina Hadad 
+
 ___
 
