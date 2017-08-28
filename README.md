@@ -106,5 +106,8 @@
     * PWA Garbarino una experiencia real - Leonardo Pitelli
     * Introducción a Firebase - Carolina Hadad 
 
+* [<b>freeCodeCampBA S02E13</b> - <i>Doming 27 de Agosto, 2017 - Acamica - El Salvador 4052</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/242696555)
+   * Microservicios FTW con Micro -  Cristhian Duran
+
 ___
 
