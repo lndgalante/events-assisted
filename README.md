@@ -109,5 +109,10 @@
 * [<b>freeCodeCampBA S02E13</b> - <i>Doming 27 de Agosto, 2017 - Acamica - El Salvador 4052</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/242696555)
    * Microservicios FTW con Micro -  Cristhian Duran
 
+* [<b>Nardoz (Streaming)</b> - <i>Miércoles 6 de Septiembre, 2017 - Intive-FDV - Av. Belgrano 15802</i>](https://www.meetup.com/es-ES/Nardoz/events/242964403)
+    * Necesitás GraphQL - Belén Curcio
+    * Un toolkit de NLP en español - Julián Eisenschlos
+
+
 ___
 
