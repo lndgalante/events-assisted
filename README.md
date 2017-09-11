@@ -113,6 +113,8 @@
     * Necesitás GraphQL - Belén Curcio
     * Un toolkit de NLP en español - Julián Eisenschlos
 
+* [<b>freeCodeCampBA S02E14</b> - <i>Domingo 10 de Septiembre, 2017 - Aerolab - Juana Azurduy 2440</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/243113715)
+   * Introducción a Git - Pato Rodriguez
 
 ___
 
