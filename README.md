@@ -116,5 +116,10 @@
 * [<b>freeCodeCampBA S02E14</b> - <i>Domingo 10 de Septiembre, 2017 - Aerolab - Juana Azurduy 2440</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/243113715)
    * Introducción a Git - Pato Rodriguez
 
+* [<b>BAFrontEnd</b> - <i>Martes 19 de Septiembre, 2017 - Digital House - Monroe 860</i>](https://www.meetup.com/es/BAFrontend/events/243144503)
+   * La Web Tangible - Dan Zajband
+   * Unit Testing - Celina Twardowski
+
+
 ___
 
