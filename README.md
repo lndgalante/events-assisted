@@ -120,6 +120,10 @@
    * La Web Tangible - Dan Zajband
    * Unit Testing - Celina Twardowski
 
+* [<b>MeetupJS</b> - <i>Jueves 28 de Septiembre, 2017 - Avature - Humboldt 1550</i>](https://www.meetup.com/es-ES/Meetup-js/events/243553503)
+   * Chau Jekyll, hola Nextein - Maximiliano Fierro
+   * CSS & React: Ejemplos, problemas y (algunas) soluciones - Karen Serfaty
+
 
 ___
 
