@@ -124,6 +124,9 @@
    * Chau Jekyll, hola Nextein - Maximiliano Fierro
    * CSS & React: Ejemplos, problemas y (algunas) soluciones - Karen Serfaty
 
+* [<b>MeetupJS</b> - <i>Miércoles 18 de Octubre, 2017 - MediaMonks - El Salvador 5137</i>](https://www.meetup.com/es-ES/Meetup-js/events/244152251)
+   * Desarrollando avantrip.com con next - styled-components - redux - apollo - storybook - plop y excel - Marcelo Zapaia
+   * Lecciones aprendidas desarrollando la app de AeroMéxico con React Native - Ronald Mendez, Alan Dawidowicz y Fabricio Mouzo
 
 ___
 
