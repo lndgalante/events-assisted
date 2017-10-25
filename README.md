@@ -128,5 +128,7 @@
    * Desarrollando avantrip.com con next - styled-components - redux - apollo - storybook - plop y excel - Marcelo Zapaia
    * Lecciones aprendidas desarrollando la app de AeroMéxico con React Native - Ronald Mendez, Alan Dawidowicz y Fabricio Mouzo
 
+* [<b>ReactJS</b> - <i>Martes 24 de Octrubre, 2017 - Wolox - Guemes 4673</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/243864748)
+   * ReactJS Performance Tips - Manuel Battan
 ___
 
