@@ -5,6 +5,7 @@
 * [<b>CSSconf Argentina</b> - <i>7 de Agosto, 2016</i>](http://cssconfar.com)
 * [<b>NodeConf Argentina</b> - <i>17 - 19 de Noviembre, 2016</i>](https://2016.nodeconf.com.ar)
 * [<b>DevDay Argentina</b> - <i>3 de Diciembre, 2016</i>](http://devday-ar.com)
+* [<b>NodeConf Argentina</b> - <i>26 - 28 de Noviembre, 2017</i>](https://2017.nodeconf.com.ar)
 
 ## Hackathons
 * [<b>AngelHack Argentina 🥇</b> - <i>2, 3 de Julio, 2016</i>](http://angelhack.com/angelhack-buenos-aires-2016)
