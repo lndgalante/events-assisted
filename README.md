@@ -131,5 +131,8 @@
 
 * [<b>ReactJS</b> - <i>Martes 24 de Octrubre, 2017 - Wolox - Guemes 4673</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/243864748)
    * ReactJS Performance Tips - Manuel Battan
+   * 
+* [<b>freeCodeCampBA S02E17</b> - <i>Sábado 11 de Noviembre, 2017 - Medallia - Humboldt 1550</i>](https://www.meetup.com/es/freeCodeCampBA/events/244852127)
+   * Introducción a la Programación Funcional - Norman Perrin
 ___
 
