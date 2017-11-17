@@ -134,5 +134,9 @@
    * 
 * [<b>freeCodeCampBA S02E17</b> - <i>Sábado 11 de Noviembre, 2017 - Medallia - Humboldt 1550</i>](https://www.meetup.com/es/freeCodeCampBA/events/244852127)
    * Introducción a la Programación Funcional - Norman Perrin
+
+* [<b>BAFrontEnd (Streaming)/b> - <i>Miércoles 16 de Noviembre, 2017 - UTN Aula Magna - Medrano 952</i>](https://www.meetup.com/es/BAFrontend/events/244867957)
+   * La accesibilidad de todos los días - Eva Ferreira
+   * PWA Garbarino - Una experiencia real - Leo Pitelli
 ___
 
