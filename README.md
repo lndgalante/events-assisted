@@ -170,7 +170,7 @@
 
   * Introducción a la Programación Funcional - Norman Perrin
 
-* [<b>BAFrontEnd (Streaming) - <i>Miércoles 16 de Noviembre, 2017 - UTN Aula Magna - Medrano 952</i>](https://www.meetup.com/es/BAFrontend/events/244867957)
+* [<b>BAFrontEnd (Streaming)</b> - <i>Miércoles 16 de Noviembre, 2017 - UTN Aula Magna - Medrano 952</i>](https://www.meetup.com/es/BAFrontend/events/244867957)
 
   * La accesibilidad de todos los días - Eva Ferreira
   * PWA Garbarino - Una experiencia real - Leo Pitelli
