@@ -179,4 +179,9 @@
 
   * Rompiendo el Mundo Binario con Vue.js - Ignacio Anaya
 
+* [<b>BAFrontEnd</b> - <i>Jueves 14 de Diciembre, 2017 - El Planetario - Belisario Roldán y Av. Sarmiento</i>](https://www.meetup.com/es-ES/BAFrontend/events/245735638)
+
+  * Arte que se programa - Cristian Reynaga
+  * Diseño Interactivo y GPU - Fabricio Costa
+
 ---
