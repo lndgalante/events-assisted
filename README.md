@@ -184,4 +184,8 @@
   * Arte que se programa - Cristian Reynaga
   * Diseño Interactivo y GPU - Fabricio Costa
 
+* [<b>freeCodeCampBA S02E20</b> - <i>Sábado 16 de Diciembre, 2017 - Acamica - El Salvador 4052</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/245826812)
+
+  * Cómo construir productos digitales que funcionan - Lu Godoy
+
 ---
