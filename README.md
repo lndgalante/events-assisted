@@ -188,4 +188,9 @@
 
   * Cómo construir productos digitales que funcionan - Lu Godoy
 
+* [<b>NG-Baires</b> - <i>Martes 26 de Diciembre, 2017 - Acamica - El Salvador 4052</i>](https://www.meetup.com/es/NG-BAIRES/events/245940328)
+
+  * TypeScript en Node - Hernán Rajchert
+  * Realidad Aumentada en NativeScript - Jorge Cano
+
 ---
