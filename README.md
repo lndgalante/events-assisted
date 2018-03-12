@@ -9,7 +9,11 @@
 ### _Meetups_
 
 * [<b>Auth0 Trainning </b> - <i>Jueves 25 de Enero - Zoom.us</i>](https://auth0.zoom.us/j/750616168)
+
   * Auth0 & JWT - Ado Kukic
+
+* [<b>freeCodeCampBA S03E01 </b> - <i>Sábado 10 de Marzo - Auth0 - Av. Dorrego 2161</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/248478169)
+  * Coding Interviews - Gabriel Miranda
 
 ## `2 0 1 7`
 
