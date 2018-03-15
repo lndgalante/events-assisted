@@ -13,7 +13,13 @@
   * Auth0 & JWT - Ado Kukic
 
 * [<b>freeCodeCampBA S03E01 </b> - <i>Sábado 10 de Marzo - Auth0 - Av. Dorrego 2161</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/248478169)
+
   * Coding Interviews - Gabriel Miranda
+
+* [<b>Auth0 Online Meetup </b> - <i>Jueves 15 de Marzo - Webinar</i>](https://www.meetup.com/es-ES/Auth0-Online-Meetup/events/248032366)
+
+  * Stencil: Web Components for Simplified Apps - Mike Hartington
+  * Introduction to Modern Identity - Ado Kukic
 
 ## `2 0 1 7`
 
