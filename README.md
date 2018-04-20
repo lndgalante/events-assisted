@@ -25,6 +25,11 @@
 
   * CSS Grids & Flexbox - Guadalupe Lazzo
 
+* [<b>Baires Web</b> - <i>Jueves 19 de Abril - Belatrix - Av. Alem 855 Piso 21</i>](https://www.meetup.com/es-ES/bairesweb/events/249773848)
+
+  * JavaScript Meets The Blockchain - Ignacio Anaya
+  * Understanding Flexbox and CSS Grid - Kevin Olesker
+
 ## `2 0 1 7`
 
 ### _Conferences_
