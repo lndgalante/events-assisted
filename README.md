@@ -30,6 +30,11 @@
   * JavaScript Meets The Blockchain - Ignacio Anaya
   * Understanding Flexbox and CSS Grid - Kevin Olesker
 
+* [<b>Meetup.js</b> - <i>Jueves 11 de Mayo - Stensul - Soler 5586</i>](https://www.meetup.com/es-ES/Meetup-js/events/250410888)
+
+  * Virtual DOM - Jose (Stensul)
+  * La esencia de React - Gabriel Montes
+
 ## `2 0 1 7`
 
 ### _Conferences_
