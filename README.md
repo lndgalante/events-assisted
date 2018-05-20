@@ -35,6 +35,10 @@
   * Virtual DOM - Jose (Stensul)
   * La esencia de React - Gabriel Montes
 
+* [<b>freeCodeCampBA S03E03</b> - <i>Sábado 19 de Mayo - Aerolab - Av. Cramer 3226</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/250822721)
+
+  * React, styled-components y Cypress - Gonzalo Pozzo
+
 ## `2 0 1 7`
 
 ### _Conferences_
