@@ -42,11 +42,16 @@
 * [<b>Meetup.js</b> - <i>Miércoles 13 de Junio - SCVsoft - Dr. Nicolás Repetto 1841</i>](https://www.meetup.com/es-ES/Meetup-js/events/251520968)
 
   - State First Development - Daniel Gimenez
-  - [Como validar una idea en 8 horas y con (casi) $0 ](https://speakerdeck.com/keyserfaty/como-validar-una-idea-en-8-horas-y-con-casi-0-dollars?slide=1)
+  - [Como validar una idea en 8 horas y con (casi) $0](https://speakerdeck.com/keyserfaty/como-validar-una-idea-en-8-horas-y-con-casi-0-dollars?slide=1)
 
 - [<b>freeCodeCampBA S03E04</b> - <i>Sábado 23 de Junio - Auth0 - Av. Dorrego 2161</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/251918513)
 
   - Design 101 - Bárbara Mercedes
+
+* [<b>Nardoz</b> - <i>Jueves 2 de Febrero - MuleSoft - Juana Manso 999</i>](https://www.meetup.com/es-ES/Nardoz/events/237054879)
+
+  - Rompiendo Mitos - Diana Rodríguez
+  - Programación defensiva en Node con PureScript - Hernan Rajchert
 
 ## `2 0 1 7`
 
