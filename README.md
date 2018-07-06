@@ -50,7 +50,7 @@
 
 * [<b>Nardoz</b> - <i>Jueves 2 de Febrero - MuleSoft - Juana Manso 999</i>](https://www.meetup.com/es-ES/Nardoz/events/237054879)
 
-  - Rompiendo Mitos - Diana Rodríguez
+  - [Rompiendo Mitos](https://slides.com/superdiana/rompiendomitos) - Diana Rodríguez
   - Programación defensiva en Node con PureScript - Hernan Rajchert
 
 ## `2 0 1 7`
