@@ -53,6 +53,10 @@
   - [Rompiendo Mitos](https://slides.com/superdiana/rompiendomitos) - Diana Rodríguez
   - Programación defensiva en Node con PureScript - Hernan Rajchert
 
+- [<b>freeCodeCampBA S03E05</b> - <i>Sábado 21 de Julio - Aerolab - Av. Cramer 3226</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/252866029)
+
+  - El Futuro de las Media Queries - Andres Galante
+
 ## `2 0 1 7`
 
 ### _Conferences_
