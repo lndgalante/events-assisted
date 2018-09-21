@@ -57,6 +57,11 @@
 
   - El Futuro de las Media Queries - Andres Galante
 
+* [<b>Meetup.js</b> - <i>Viernes 21 de Septiembre - OLX - Miñones 2177</i>](https://www.meetup.com/es-ES/Meetup-js/events/254570664)
+
+  - [Sobre las cartas la mesa](https://zajdband.com/meetupjs/) - Dan Zajdband
+  - [Payments Revolution](https://speakerdeck.com/ianaya89/payments-revolution) - Ignacio Anaya
+
 ## `2 0 1 7`
 
 ### _Conferences_
