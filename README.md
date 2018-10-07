@@ -59,8 +59,13 @@
 
 * [<b>Meetup.js</b> - <i>Viernes 21 de Septiembre - OLX - Miñones 2177</i>](https://www.meetup.com/es-ES/Meetup-js/events/254570664)
 
-  - [Sobre las cartas la mesa](https://zajdband.com/meetupjs/) - Dan Zajdband
+  - [Sobre las cartas la mesa](https://zajdband.com/meetupjs) - Dan Zajdband
   - [Payments Revolution](https://speakerdeck.com/ianaya89/payments-revolution) - Ignacio Anaya
+
+- [<b>freeCodeCampBA S03E08</b> - <i>Sábado 6 de Octubre - Medallia - Humboldt 1550</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/255229507)
+
+  - [Consejos Legales para Emprendores Tecnológicos](#) - Silvio Messina
+  - [React Context API](#) - Agustin Mulet
 
 ## `2 0 1 7`
 
