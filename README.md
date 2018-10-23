@@ -67,6 +67,8 @@
   - [Consejos Legales para Emprendores Tecnológicos](#) - Silvio Messina
   - [React Context API](#) - Agustin Mulet
 
+- [Gatsby Webinar - Beyond Static: Building Dynamic Apps with Gatsby](https://www.gatsbyjs.org/blog/2018-10-15-beyond-static-intro)
+
 ## `2 0 1 7`
 
 ### _Conferences_
