@@ -69,6 +69,11 @@
 
 - [Gatsby Webinar - Beyond Static: Building Dynamic Apps with Gatsby](https://www.gatsbyjs.org/blog/2018-10-15-beyond-static-intro)
 
+* [<b>BAFrontEnd</b> - <i>Jueves 1 de Noviembre - UTN Aula Magna - Medrano 952</i>](https://www.meetup.com/es-ES/BAFrontend/events/255909256)
+
+  - Cypress - Gonzalo Pozzo
+  - Media Queries - Andrés Galante
+
 ## `2 0 1 7`
 
 ### _Conferences_
