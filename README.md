@@ -42,7 +42,7 @@
 * [<b>Meetup.js</b> - <i>Miércoles 13 de Junio - SCVsoft - Dr. Nicolás Repetto 1841</i>](https://www.meetup.com/es-ES/Meetup-js/events/251520968)
 
   - State First Development - Daniel Gimenez
-  - [Como validar una idea en 8 horas y con (casi) $0](https://speakerdeck.com/keyserfaty/como-validar-una-idea-en-8-horas-y-con-casi-0-dollars?slide=1)
+  - [Como validar una idea en 8 horas y con (casi) \$0](https://speakerdeck.com/keyserfaty/como-validar-una-idea-en-8-horas-y-con-casi-0-dollars?slide=1)
 
 - [<b>freeCodeCampBA S03E04</b> - <i>Sábado 23 de Junio - Auth0 - Av. Dorrego 2161</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/251918513)
 
@@ -73,6 +73,25 @@
 
   - Cypress - Gonzalo Pozzo
   - Media Queries - Andrés Galante
+
+- [<b>MeetupJS</b> - <i>Martes 27 de Noviembre - Medallia - Humboldt 1550</i>](https://www.meetup.com/es-ES/Meetup-js/events/240813118)
+
+  - From HTML + CSS to React + Styled Components - Sergio Frutos
+  - Whose error is it anyway? - Hernan Rajchert
+
+* [<b>IT NonStop: JS & .Net Night</b> - <i>Miércoles 28 de Noviembre - Medallia - El Cultural San Martín</i>](https://www.dataart.com.ar/events/it-nonstop-js-net-night)
+
+  - "The State of React Native Game Development"
+    Carlos Vergara, Sr JS Developer - DataArt.
+
+  - "Machine Learning with JavaScript"
+    Carlos Bucheli, Sr JS Developer.
+
+  - "The perfect developer – A guide to become a unicorn"
+    Facundo Mauricio, Project Manager - DataArt.
+
+  - "Card Sorting: simplest ways to validate information architecture in Digital Products"
+    Renata Amatore (UX Lead - DataArt) & Hernán Pereyra (Product Design Consultant)
 
 ## `2 0 1 7`
 
