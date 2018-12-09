@@ -93,6 +93,16 @@
   - "Card Sorting: simplest ways to validate information architecture in Digital Products"
     Renata Amatore (UX Lead - DataArt) & Hernán Pereyra (Product Design Consultant)
 
+* [<b>La Plata JS Day</b> - <i>Sábado 8 de Diciembre - uBiome - Calle 57 N 835</i>](https://www.dataart.com.ar/events/it-nonstop-js-net-night)
+
+  - Construyendo aplicaciones web P2P con Dat - Martin Acosta & Diego Paez
+  - CSS Razonable - Cristhian Duran
+  - Tu primer server GraphQL - Federico Marcos
+  - Imágenes y procesos digitales - Flor de Fuego
+  - Back to the browser: web components - Sergio Marin
+  - Web Bluetooth Painkillers - Federico Kauffman
+  - Diseño centrado en el usuario: soluciones usando React
+
 ## `2 0 1 7`
 
 ### _Conferences_
