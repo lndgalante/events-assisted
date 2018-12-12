@@ -103,6 +103,11 @@
   - Web Bluetooth Painkillers - Federico Kauffman
   - Diseño centrado en el usuario: soluciones usando React
 
+* [<b>Google Cloud Developer Community Buenos Aires - Machine Learning for All</b> - <i>Martes 11 de Diciembre - Sirena - Super 1456</i>](https://www.meetup.com/es-ES/Google-Cloud-Developer-Community-Buenos-Aires/events/256949908)
+
+  - ML Kit: de punta a punta - Andrés Villanueva
+  - Machine learning made easy - Leonardo Pittelli
+
 ## `2 0 1 7`
 
 ### _Conferences_
