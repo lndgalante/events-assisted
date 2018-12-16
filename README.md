@@ -4,8 +4,6 @@
 
 ## `2 0 1 8`
 
-### _Conferences_
-
 ### _Meetups_
 
 - [<b>Auth0 Trainning</b> - <i>Jueves 25 de Enero - Zoom.us</i>](https://auth0.zoom.us/j/750616168)
@@ -67,19 +65,19 @@
   - [Consejos Legales para Emprendores Tecnológicos](#) - Silvio Messina
   - [React Context API](#) - Agustin Mulet
 
-- [Gatsby Webinar - Beyond Static: Building Dynamic Apps with Gatsby](https://www.gatsbyjs.org/blog/2018-10-15-beyond-static-intro)
+* [Gatsby Webinar - Beyond Static: Building Dynamic Apps with Gatsby](https://www.gatsbyjs.org/blog/2018-10-15-beyond-static-intro)
 
-* [<b>BAFrontEnd</b> - <i>Jueves 1 de Noviembre - UTN Aula Magna - Medrano 952</i>](https://www.meetup.com/es-ES/BAFrontend/events/255909256)
+- [<b>BAFrontEnd</b> - <i>Jueves 1 de Noviembre - UTN Aula Magna - Medrano 952</i>](https://www.meetup.com/es-ES/BAFrontend/events/255909256)
 
   - Cypress - Gonzalo Pozzo
   - Media Queries - Andrés Galante
 
-- [<b>MeetupJS</b> - <i>Martes 27 de Noviembre - Medallia - Humboldt 1550</i>](https://www.meetup.com/es-ES/Meetup-js/events/240813118)
+* [<b>MeetupJS</b> - <i>Martes 27 de Noviembre - Medallia - Humboldt 1550</i>](https://www.meetup.com/es-ES/Meetup-js/events/240813118)
 
   - From HTML + CSS to React + Styled Components - Sergio Frutos
   - Whose error is it anyway? - Hernan Rajchert
 
-* [<b>IT NonStop: JS & .Net Night</b> - <i>Miércoles 28 de Noviembre - Medallia - El Cultural San Martín</i>](https://www.dataart.com.ar/events/it-nonstop-js-net-night)
+- [<b>IT NonStop: JS & .Net Night</b> - <i>Miércoles 28 de Noviembre - Medallia - El Cultural San Martín</i>](https://www.dataart.com.ar/events/it-nonstop-js-net-night)
 
   - "The State of React Native Game Development"
     Carlos Vergara, Sr JS Developer - DataArt.
@@ -103,10 +101,17 @@
   - Web Bluetooth Painkillers - Federico Kauffman
   - Diseño centrado en el usuario: soluciones usando React
 
-* [<b>Google Cloud Developer Community Buenos Aires - Machine Learning for All</b> - <i>Martes 11 de Diciembre - Sirena - Super 1456</i>](https://www.meetup.com/es-ES/Google-Cloud-Developer-Community-Buenos-Aires/events/256949908)
+- [<b>Google Cloud Developer Community Buenos Aires - Machine Learning for All</b> - <i>Martes 11 de Diciembre - Sirena - Super 1456</i>](https://www.meetup.com/es-ES/Google-Cloud-Developer-Community-Buenos-Aires/events/256949908)
 
   - ML Kit: de punta a punta - Andrés Villanueva
   - Machine learning made easy - Leonardo Pittelli
+
+* [<b>DevDay 2018</b> - <i>Domingo 16 de Diciembre - Sirena - Bouchard 710</i>](https://devday-ar.com)
+
+  - Haskell lo hizo - Ezequiel Álvarez
+  - Tips de diseño para desarrolladores - Juan Martin Garcia
+
+---
 
 ## `2 0 1 7`
 
