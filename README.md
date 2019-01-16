@@ -2,9 +2,19 @@
 
 👨‍🏫 A list of conferences, hackathons and meetups I assisted
 
+## `2 0 1 9`
+
+### Meetups
+
+### Hackathons
+
+### Conferences Live
+
+### Conferences Online
+
 ## `2 0 1 8`
 
-### _Meetups_
+### Meetups
 
 - [<b>Auth0 Trainning</b> - <i>Jueves 25 de Enero - Zoom.us</i>](https://auth0.zoom.us/j/750616168)
 
@@ -115,13 +125,13 @@
 
 ## `2 0 1 7`
 
-### _Conferences_
+### Conferences
 
 - [<b>NodeConf Argentina</b> - <i>26 - 28 de Octubre</i>](https://2017.nodeconf.com.ar)
 
 * [<b>Full Stack Tech</b> - <i>30 de Noviembre</i>](https://ar-fullstack.tech)
 
-### _Meetups_
+### Meetups
 
 - [<b>Nardoz</b> - <i>Jueves 2 de Febrero - JamppHQ - Honduras 5952</i>](https://www.meetup.com/es-ES/Nardoz/events/237054879)
 
@@ -302,12 +312,12 @@
 
 ## `2 0 1 6`
 
-### _Conferences_
+### Conferences
 
 - [<b>NodeConf Argentina</b> - <i>26 - 28 de Octubre</i>](https://2017.nodeconf.com.ar)
 - [<b>Full Stack Tech</b> - <i>30 de Noviembre</i>](https://ar-fullstack.tech)
 
-### _Hackathons_
+### Hackathons
 
 - [<b>AngelHack Argentina 🥇</b> - <i>2, 3 de Julio</i>](http://angelhack.com/angelhack-buenos-aires-2016)
 - [<b>Hack the World Argentina</b> - <i>8, 9 de Abril</i>](https://hacktheworld.beer/Argentina_2017)
