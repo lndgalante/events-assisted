@@ -6,6 +6,12 @@
 
 ### Meetups
 
+- [<b>JavaScript for Enterprise Development</b> - <i>Martes 22 de Enero</i>](https://certifiedfreshevents.com/events/enterprise-javascript/)
+
+  - Rizchel Dayao - Building Enterprise Applications with the Magic of React, Redux, and GraphQL
+
+  - Simon MacDonald - The FaaS and the Serverless
+
 ### Hackathons
 
 ### Conferences Live
