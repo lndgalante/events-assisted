@@ -14,6 +14,8 @@
 
 ### Hackathons
 
+- [<b>Facebook Argentina Hackathon</b> - <i>Sábado 16 de Marzo</i>](https://fbargentinahack19.splashthat.com)
+
 ### Conferences Live
 
 ### Conferences Online
