@@ -12,6 +12,10 @@
 
   - Simon MacDonald - The FaaS and the Serverless
 
+- [<b>Meet Up - Diseño de Productos Digitales</b> - <i>Miércoles 10 de Abril</i>](https://www.eventbrite.com.ar/e/meet-up-diseno-de-productos-digitales-tickets-59891585344)
+
+  - “Wiki” Chaves - Diseño UI/UX
+
 ### Hackathons
 
 - [<b>Facebook Argentina Hackathon</b> - <i>Sábado 16 de Marzo</i>](https://fbargentinahack19.splashthat.com)
