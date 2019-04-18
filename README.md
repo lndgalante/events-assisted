@@ -16,6 +16,11 @@
 
   - “Wiki” Chaves - Diseño UI/UX
 
+* [<b>Meetup.js</b> - <i>Miércoles 17 de Mayo - Bons - Darwin 1154</i>](https://www.meetup.com/es-ES/Meetup-js/events/260496958/)
+
+  - "helloWorld.php".replace("php", "js"); - Ezequiel Leites
+  - Building Decentralized Apps with GunDB - Dario Miñones
+
 ### Hackathons
 
 - [<b>Facebook Argentina Hackathon</b> - <i>Sábado 16 de Marzo</i>](https://fbargentinahack19.splashthat.com)
