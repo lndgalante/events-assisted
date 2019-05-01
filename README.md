@@ -12,14 +12,22 @@
 
   - Simon MacDonald - The FaaS and the Serverless
 
-- [<b>Meet Up - Diseño de Productos Digitales</b> - <i>Miércoles 10 de Abril</i>](https://www.eventbrite.com.ar/e/meet-up-diseno-de-productos-digitales-tickets-59891585344)
+* [<b>Meet Up - Diseño de Productos Digitales</b> - <i>Miércoles 10 de Abril</i>](https://www.eventbrite.com.ar/e/meet-up-diseno-de-productos-digitales-tickets-59891585344)
 
   - “Wiki” Chaves - Diseño UI/UX
 
-* [<b>Meetup.js</b> - <i>Miércoles 17 de Mayo - Bons - Darwin 1154</i>](https://www.meetup.com/es-ES/Meetup-js/events/260496958/)
+- [<b>Meetup.js</b> - <i>Miércoles 17 de Mayo - Bons - Darwin 1154</i>](https://www.meetup.com/es-ES/Meetup-js/events/260496958/)
 
   - "helloWorld.php".replace("php", "js"); - Ezequiel Leites
   - Building Decentralized Apps with GunDB - Dario Miñones
+
+* [<b>freeCodeCampBA</b> - <i>Sábado 27 de Abril - Auth0 - Av. Dorrego 2161</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/260879906)
+
+  - Workshop de juegos con Phaser - Leandro Cabrera
+
+- [<b>NodeSource Webinar</b> - <i>Miêcoles 1 de Mayo</i>](https://pages.nodesource.com/new-features-nodejs12-0501.html)
+
+  - New and Exciting Features to Land In Node.js 12 - Liz Parody
 
 ### Hackathons
 
