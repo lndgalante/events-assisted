@@ -25,9 +25,9 @@
 
   - Workshop de juegos con Phaser - Leandro Cabrera
 
-- [<b>NodeSource Webinar</b> - <i>Miêcoles 1 de Mayo</i>](https://pages.nodesource.com/new-features-nodejs12-0501.html)
+- [<b>Nomad JS</b> - <i>Miércoles 8 de Mayo</i>](https://pages.nodesource.com/new-features-nodejs12-0501.html)
 
-  - New and Exciting Features to Land In Node.js 12 - Liz Parody
+  - Focusing on Focus - Chris de Mars - [Slides](https://speakerdeck.com/chrisdemars/focusing-on-focus)
 
 ### Hackathons
 
