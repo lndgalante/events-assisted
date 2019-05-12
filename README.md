@@ -35,6 +35,8 @@
 
 ### Conferences Live
 
+- [<b>WebConf Córdoba</b> - <i>Sábado 11 de Mayo</i>](https://webconf.tech)
+
 ### Conferences Online
 
 ## `2 0 1 8`
