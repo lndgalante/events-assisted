@@ -29,6 +29,8 @@
 
   - Focusing on Focus - Chris de Mars - [Slides](https://speakerdeck.com/chrisdemars/focusing-on-focus)
 
+* [Gatsby Webinar - ImpossibleFoods.com: Combining Gatsby + Contentful for Speed, Scale and Flexibility](https://www.gatsbyjs.com/impossible-foods-webinar/)
+
 ### Hackathons
 
 - [<b>Facebook Argentina Hackathon</b> - <i>Sábado 16 de Marzo</i>](https://fbargentinahack19.splashthat.com)
