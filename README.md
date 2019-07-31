@@ -31,6 +31,8 @@
 
 * [Gatsby Webinar - ImpossibleFoods.com: Combining Gatsby + Contentful for Speed, Scale and Flexibility](https://www.gatsbyjs.com/impossible-foods-webinar/)
 
+- [Auth0 Online Meetup - Securing Your SPA With Latest Industry Best Practices Using The New Auth0 SDK](https://www.meetup.com/es-ES/Auth0-Online-Meetup/events/262972356)
+
 ### Hackathons
 
 - [<b>Facebook Argentina Hackathon</b> - <i>Sábado 16 de Marzo</i>](https://fbargentinahack19.splashthat.com)
