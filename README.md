@@ -37,6 +37,8 @@
 
 - [<b>Facebook Argentina Hackathon</b> - <i>Sábado 16 de Marzo</i>](https://fbargentinahack19.splashthat.com)
 
+- [<b>Developers for Good Hackathon</b> - <i>Sábado 7 de Septiembre</i>](https://developersforgood.com/)
+
 ### Conferences Live
 
 - [<b>WebConf Córdoba</b> - <i>Sábado 11 de Mayo</i>](https://webconf.tech)
