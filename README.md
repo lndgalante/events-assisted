@@ -39,6 +39,8 @@
 
 - [<b>Developers for Good Hackathon</b> - <i>Sábado 7 de Septiembre</i>](https://developersforgood.com/)
 
+- [<b>Hackatrix</b> - <i>Sábado 5 de Octubre</i>](https://www.belatrixsf.com/hackatrix/2019_bsas/)
+
 ### Conferences Live
 
 - [<b>WebConf Córdoba</b> - <i>Sábado 11 de Mayo</i>](https://webconf.tech)
