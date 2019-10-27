@@ -33,6 +33,11 @@
 
 - [Auth0 Online Meetup - Securing Your SPA With Latest Industry Best Practices Using The New Auth0 SDK](https://www.meetup.com/es-ES/Auth0-Online-Meetup/events/262972356)
 
+* [<b>Meetup.js</b> - <i>Jueves 24 de Octubre - Solstice - Aguirre 1169</i>](https://www.eventbrite.com/e/meetupjs-56-octubre-2019-tickets-77499608415)
+
+  - Introducción al desarrollo de videojuegos con PhaserJS - David Rene Comba Lareu
+  - Tecleando con JavaScript ATR - Juan Scolari
+
 ### Hackathons
 
 - [<b>Facebook Argentina Hackathon</b> - <i>Sábado 16 de Marzo</i>](https://fbargentinahack19.splashthat.com)
