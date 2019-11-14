@@ -38,6 +38,11 @@
   - Introducción al desarrollo de videojuegos con PhaserJS - David Rene Comba Lareu
   - Tecleando con JavaScript ATR - Juan Scolari
 
+- [<b>ReactJS</b> - <i>Martes 12 de Noviembre - Wolox - Juana Azurduy 2440</i>](https://www.meetup.com/es-ES/React-en-Buenos-Aires/events/266209513/)
+
+  - Integrando React con GraphQL - Lucas Zibell
+  - La web para todos: Intro a la accesibilidad web - Grecia Marin y Alejandro Pellegrini
+
 ### Hackathons
 
 - [<b>Facebook Argentina Hackathon</b> - <i>Sábado 16 de Marzo</i>](https://fbargentinahack19.splashthat.com)
