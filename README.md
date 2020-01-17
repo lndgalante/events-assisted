@@ -2,6 +2,14 @@
 
 👨‍🏫 A list of conferences, hackathons and meetups I assisted
 
+## `2 0 2 0`
+
+### Meetups
+
+- [<b>Improving Website Performance</b> - <i>Viernes 17 de Enero</i>](https://www.crowdcast.io/e/improving-website)
+
+    - Henri Helvetica - How to load resources as quickly as possible
+
 ## `2 0 1 9`
 
 ### Meetups
