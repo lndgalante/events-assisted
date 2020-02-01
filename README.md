@@ -10,6 +10,13 @@
 
     - Henri Helvetica - How to load resources as quickly as possible
 
+### Webinars
+
+- [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
+
+    - Kerly Pereda - Creando Animaciones en React Native
+
+
 ## `2 0 1 9`
 
 ### Meetups
