@@ -1,6 +1,6 @@
 # Events Assisted
 
-👨‍🏫 A list of conferences, hackathons and meetups I assisted
+👨‍🏫 A list of conferences, webinars, hackathons and meetups I assisted each year
 
 ## `2 0 2 0`
 
