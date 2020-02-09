@@ -8,14 +8,21 @@
 
 - [<b>Improving Website Performance</b> - <i>Viernes 17 de Enero</i>](https://www.crowdcast.io/e/improving-website)
 
-    - Henri Helvetica - How to load resources as quickly as possible
+  - Henri Helvetica - How to load resources as quickly as possible
 
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
 
-    - Kerly Pereda - Creando Animaciones en React Native
+  - Kerly Pereda - Creando Animaciones en React Native
 
+* [<b>GraphQL is for Everyone</b> - <i>Viernes 6 de Febrero</i>](https://zoom.us/webinar/register/WN_Hmim3WjQTr-zBvTodhq2qA)
+
+  - Eve Porcello - GraphQL is for Everyone
+
+* [<b>Troubleshooting Serverless APIs</b> - <i>Viernes 6 de Febrero</i>](https://serverless.zoom.us/webinar/register/3015802352415/WN_7GpfDR5sT-qsUmovARuvrg)
+
+  - Gareth McCumskey - Troubleshooting Serverless APIs
 
 ## `2 0 1 9`
 
@@ -23,7 +30,8 @@
 
 - [<b>JavaScript for Enterprise Development</b> - <i>Martes 22 de Enero</i>](https://certifiedfreshevents.com/events/enterprise-javascript/)
 
-  - Rizchel Dayao - Building Enterprise Applications with the Magic of React, Redux, and GraphQL
+  - Rizchel Dayao - Building Enterprise Applications with the Magic of React,
+    Redux, and GraphQL
 
   - Simon MacDonald - The FaaS and the Serverless
 
@@ -42,7 +50,8 @@
 
 - [<b>Nomad JS</b> - <i>Miércoles 8 de Mayo</i>](https://pages.nodesource.com/new-features-nodejs12-0501.html)
 
-  - Focusing on Focus - Chris de Mars - [Slides](https://speakerdeck.com/chrisdemars/focusing-on-focus)
+  - Focusing on Focus - Chris de Mars -
+    [Slides](https://speakerdeck.com/chrisdemars/focusing-on-focus)
 
 * [Gatsby Webinar - ImpossibleFoods.com: Combining Gatsby + Contentful for Speed, Scale and Flexibility](https://www.gatsbyjs.com/impossible-foods-webinar/)
 
@@ -50,13 +59,15 @@
 
 * [<b>Meetup.js</b> - <i>Jueves 24 de Octubre - Solstice - Aguirre 1169</i>](https://www.eventbrite.com/e/meetupjs-56-octubre-2019-tickets-77499608415)
 
-  - Introducción al desarrollo de videojuegos con PhaserJS - David Rene Comba Lareu
+  - Introducción al desarrollo de videojuegos con PhaserJS - David Rene Comba
+    Lareu
   - Tecleando con JavaScript ATR - Juan Scolari
 
 - [<b>ReactJS</b> - <i>Martes 12 de Noviembre - Wolox - Juana Azurduy 2440</i>](https://www.meetup.com/es-ES/React-en-Buenos-Aires/events/266209513/)
 
   - Integrando React con GraphQL - Lucas Zibell
-  - La web para todos: Intro a la accesibilidad web - Grecia Marin y Alejandro Pellegrini
+  - La web para todos: Intro a la accesibilidad web - Grecia Marin y Alejandro
+    Pellegrini
 
 ### Hackathons
 
@@ -82,7 +93,8 @@
 
 * [<b>freeCodeCampBA S03E01</b> - <i>Sábado 10 de Marzo - Auth0 - Av. Dorrego 2161</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/248478169)
 
-  - Gabriel Miranda - [Coding Interviews](http://slides.com/gabrielmiranda-1/deck-2#)
+  - Gabriel Miranda -
+    [Coding Interviews](http://slides.com/gabrielmiranda-1/deck-2#)
 
 - [<b>Auth0 Online Meetup</b> - <i>Jueves 15 de Marzo - Webinar</i>](https://www.meetup.com/es-ES/Auth0-Online-Meetup/events/248032366)
 
@@ -91,7 +103,8 @@
 
 * [<b>freeCodeCampBA S03E02</b> - <i>Sábado 7 de Abril - Redbee Studios - Lavalle 333</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/249390867)
 
-  - [Mis mejores amigos en CSS Grids & Flexbox](https://docs.google.com/presentation/d/1f73IJ3vb2ZXOIrwqDx6ExrjrYnavgCJH0TqpKfSVIXU) - Guadalupe Lazzo
+  - [Mis mejores amigos en CSS Grids & Flexbox](https://docs.google.com/presentation/d/1f73IJ3vb2ZXOIrwqDx6ExrjrYnavgCJH0TqpKfSVIXU) -
+    Guadalupe Lazzo
 
 - [<b>Baires Web</b> - <i>Jueves 19 de Abril - Belatrix - Av. Alem 855 Piso 21</i>](https://www.meetup.com/es-ES/bairesweb/events/249773848)
 
@@ -118,7 +131,8 @@
 
 * [<b>Nardoz</b> - <i>Jueves 2 de Febrero - MuleSoft - Juana Manso 999</i>](https://www.meetup.com/es-ES/Nardoz/events/237054879)
 
-  - [Rompiendo Mitos](https://slides.com/superdiana/rompiendomitos) - Diana Rodríguez
+  - [Rompiendo Mitos](https://slides.com/superdiana/rompiendomitos) - Diana
+    Rodríguez
   - Programación defensiva en Node con PureScript - Hernan Rajchert
 
 - [<b>freeCodeCampBA S03E05</b> - <i>Sábado 21 de Julio - Aerolab - Av. Cramer 3226</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/252866029)
@@ -128,7 +142,8 @@
 * [<b>Meetup.js</b> - <i>Viernes 21 de Septiembre - OLX - Miñones 2177</i>](https://www.meetup.com/es-ES/Meetup-js/events/254570664)
 
   - [Sobre las cartas la mesa](https://zajdband.com/meetupjs) - Dan Zajdband
-  - [Payments Revolution](https://speakerdeck.com/ianaya89/payments-revolution) - Ignacio Anaya
+  - [Payments Revolution](https://speakerdeck.com/ianaya89/payments-revolution) -
+    Ignacio Anaya
 
 - [<b>freeCodeCampBA S03E08</b> - <i>Sábado 6 de Octubre - Medallia - Humboldt 1550</i>](https://www.meetup.com/es-ES/freeCodeCampBA/events/255229507)
 
@@ -149,17 +164,17 @@
 
 - [<b>IT NonStop: JS & .Net Night</b> - <i>Miércoles 28 de Noviembre - Medallia - El Cultural San Martín</i>](https://www.dataart.com.ar/events/it-nonstop-js-net-night)
 
-  - "The State of React Native Game Development"
-    Carlos Vergara, Sr JS Developer - DataArt.
+  - "The State of React Native Game Development" Carlos Vergara, Sr JS
+    Developer - DataArt.
 
-  - "Machine Learning with JavaScript"
-    Carlos Bucheli, Sr JS Developer.
+  - "Machine Learning with JavaScript" Carlos Bucheli, Sr JS Developer.
 
-  - "The perfect developer – A guide to become a unicorn"
-    Facundo Mauricio, Project Manager - DataArt.
+  - "The perfect developer – A guide to become a unicorn" Facundo Mauricio,
+    Project Manager - DataArt.
 
-  - "Card Sorting: simplest ways to validate information architecture in Digital Products"
-    Renata Amatore (UX Lead - DataArt) & Hernán Pereyra (Product Design Consultant)
+  - "Card Sorting: simplest ways to validate information architecture in Digital
+    Products" Renata Amatore (UX Lead - DataArt) & Hernán Pereyra (Product
+    Design Consultant)
 
 * [<b>La Plata JS Day</b> - <i>Sábado 8 de Diciembre - uBiome - Calle 57 N 835</i>](https://www.dataart.com.ar/events/it-nonstop-js-net-night)
 
@@ -201,8 +216,10 @@
 
 * [<b>BANode</b> - <i>Jueves 9 de Febrero - Belatrix - Alem 855</i>](https://www.meetup.com/es-ES/banodejs/events/237407547)
 
-  - El poder de la comunidad - Development en proyectos open-source - Victoria Martínez de la Cruz
-  - Arquitecturas basadas en funciones usando Serverless.io - Ezequiel Gonzalez Rial
+  - El poder de la comunidad - Development en proyectos open-source - Victoria
+    Martínez de la Cruz
+  - Arquitecturas basadas en funciones usando Serverless.io - Ezequiel Gonzalez
+    Rial
 
 - [<b>MeetupJS</b> - <i>Jueves 16 de Febrero - Southworks - Perú 375</i>](https://www.meetup.com/es-ES/Meetup-js/events/237609108)
 
@@ -259,12 +276,14 @@
 
 * [<b>MeetupJS</b> - <i>Martes 23 de Mayo - Flowics - Costa Rica 5546</i>](https://www.meetup.com/es-ES/Meetup-js/events/239998577)
 
-  - Navegación en React Native, opciones para no caer en la locura - Eleonora Lester
+  - Navegación en React Native, opciones para no caer en la locura - Eleonora
+    Lester
   - Flow(type) for the Brave & True - Mariano Cortesi
 
 - [<b>ReactJS</b> - <i>Miércoles 8 de Junio - GlobalLogic - Av. Corrientes 485</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/240295544)
 
-  - Introducción a Next.js, Blazing fast server rendered react apps - Gabriel Miranda
+  - Introducción a Next.js, Blazing fast server rendered react apps - Gabriel
+    Miranda
 
 * [<b>ReactJS</b> - <i>Miércoles 14 de Junio - Medallia - Humboldt 1550</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/240536898)
 
@@ -336,8 +355,10 @@
 
 - [<b>MeetupJS</b> - <i>Miércoles 18 de Octubre - MediaMonks - El Salvador 5137</i>](https://www.meetup.com/es-ES/Meetup-js/events/244152251)
 
-  - Desarrollando avantrip.com con next - styled-components - redux - apollo - storybook - plop y excel - Marcelo Zapaia
-  - Lecciones aprendidas desarrollando la app de AeroMéxico con React Native - Ronald Mendez, Alan Dawidowicz y Fabricio Mouzo
+  - Desarrollando avantrip.com con next - styled-components - redux - apollo -
+    storybook - plop y excel - Marcelo Zapaia
+  - Lecciones aprendidas desarrollando la app de AeroMéxico con React Native -
+    Ronald Mendez, Alan Dawidowicz y Fabricio Mouzo
 
 * [<b>ReactJS</b> - <i>Martes 24 de Octrubre - Wolox - Guemes 4673</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/243864748)
 
