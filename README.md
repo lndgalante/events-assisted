@@ -29,6 +29,10 @@
 
   - Gareth McCumskey - Troubleshooting Serverless APIs
 
+* [<b>Sleeping Better At Night</b> - <i>Jueves 5 de Marzo</i>](https://tlakomy.com/sleeping-better-cypress/)
+
+  - Tomasz Lakomy - Sleeping Better At Night (Cypress E2E)
+
 ## `2 0 1 9`
 
 ### Meetups
