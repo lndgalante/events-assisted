@@ -15,6 +15,11 @@
   - Twitter Timelinees (React & Redux) - Lenny
   - Docker desde las trincheras - Ezequiel Gonzalez Rial
 
+* [<b>This Dot Media - Global React Meetup</b> - <i>Jueves 12 de Marzo</i>](https://www.youtube.com/watch?v=sWGXQGGIKNg)
+
+  - Building a production-ready offline first React App with Hasura & RxDB - Rishichandra Wawhal
+  - Common Component Decomposition Pitfalls (And How To Avoid Them!) - Rob Ocel
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
