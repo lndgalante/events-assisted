@@ -10,10 +10,14 @@
 
   - Henri Helvetica - How to load resources as quickly as possible
 
-* [<b>Meetup.js</b> - <i>Jueves 5 de Marzo - Stensul - Soler 5586</i>](https://www.eventbrite.com/e/meetupjs-58-marzo-2020-tickets-97204395965#)
+* [<b>Meetup.js</b> - <i>Martes 10 de Marzo - Stensul - Soler 5586</i>](https://www.eventbrite.com/e/meetupjs-58-marzo-2020-tickets-97204395965#)
 
   - Twitter Timelinees (React & Redux) - Lenny
   - Docker desde las trincheras - Ezequiel Gonzalez Rial
+
+- [<b>IE University</b> - <i>Jueves 5 de Marzo - Alvear Palace Hotel - Avenida Alvear 1891</i>](https://www.eventbrite.com/e/exemplary-leadership-vision-and-the-art-of-seeing-tickets-94415714945#)
+
+  - Exemplary Leadership: Vision and the Art of Seeing - Sandra Comas
 
 * [<b>This Dot Media - Global React Meetup</b> - <i>Jueves 12 de Marzo</i>](https://www.youtube.com/watch?v=sWGXQGGIKNg)
 
