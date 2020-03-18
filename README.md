@@ -37,6 +37,10 @@
 
   - Tomasz Lakomy - Sleeping Better At Night (Cypress E2E)
 
+* [<b>Serverless Workshop with Python and Javascript</b> - <i>Miércoles 18 de Marzo</i>](https://www.crowdcast.io/e/serverless-workshop-with)
+
+  - Upkar Lidder - Serverless Workshop with Python and Javascript
+
 ## `2 0 1 9`
 
 ### Meetups
