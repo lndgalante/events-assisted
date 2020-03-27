@@ -42,6 +42,10 @@
 
   - Tomasz Lakomy - Sleeping Better At Night (Cypress E2E)
 
+* [<b>Egghead Webinar</b> - <i>Jueves 26 de Marzo</i>](https://egghead.zoom.us/webinar/register/WN_kfmvHNW5RSiYLpnlMW80hA)
+
+  - Full Stack Development in the Era of Serverless Computing - Nader Dabit
+
 ## `2 0 1 9`
 
 ### Meetups
