@@ -21,7 +21,8 @@
 
 * [<b>This Dot Media - Global React Meetup</b> - <i>Jueves 12 de Marzo</i>](https://www.youtube.com/watch?v=sWGXQGGIKNg)
 
-  - Building a production-ready offline first React App with Hasura & RxDB - Rishichandra Wawhal
+  - Building a production-ready offline first React App with Hasura & RxDB -
+    Rishichandra Wawhal
   - Common Component Decomposition Pitfalls (And How To Avoid Them!) - Rob Ocel
 
 ### Webinars
@@ -42,9 +43,14 @@
 
   - Tomasz Lakomy - Sleeping Better At Night (Cypress E2E)
 
+* [<b>Serverless Workshop with Python and Javascript</b> - <i>Miércoles 18 de Marzo</i>](https://www.crowdcast.io/e/serverless-workshop-with)
+
+  - Upkar Lidder - Serverless Workshop with Python and Javascript
+
 * [<b>Egghead Webinar</b> - <i>Jueves 26 de Marzo</i>](https://egghead.zoom.us/webinar/register/WN_kfmvHNW5RSiYLpnlMW80hA)
 
   - Full Stack Development in the Era of Serverless Computing - Nader Dabit
+
 
 ## `2 0 1 9`
 
