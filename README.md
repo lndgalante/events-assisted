@@ -47,6 +47,10 @@
 
   - Upkar Lidder - Serverless Workshop with Python and Javascript
 
+### Hackathons
+
+- [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
+
 ## `2 0 1 9`
 
 ### Meetups
