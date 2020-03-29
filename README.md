@@ -47,6 +47,10 @@
 
   - Upkar Lidder - Serverless Workshop with Python and Javascript
 
+* [<b>Egghead Webinar</b> - <i>Jueves 26 de Marzo</i>](https://egghead.zoom.us/webinar/register/WN_kfmvHNW5RSiYLpnlMW80hA)
+
+  - Full Stack Development in the Era of Serverless Computing - Nader Dabit
+
 ### Hackathons
 
 - [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
