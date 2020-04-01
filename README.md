@@ -55,6 +55,18 @@
 
 - [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
 
+### Conferences Live
+
+### Conferences Online
+
+- [<b>The Legacy of Socrates</b> - <i>Miércoles 1 de Abril</i>](https://www.crowdcast.io/e/the-legacy-of-socrates)
+
+- @w3ltraumpirat - 🎙Choking the Monolith − The Strangler Pattern Applied
+- @etagwerker - 🎙Escaping the Tar Pit
+- @Cairolali - 🎙Improving Legacy
+- @jbrains - 🎙3 Great Opportunities from Legacy Code
+- @khaledsouf - 🎙Applied DDD on Legacy Code
+
 ## `2 0 1 9`
 
 ### Meetups
