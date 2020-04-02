@@ -51,6 +51,10 @@
 
   - Full Stack Development in the Era of Serverless Computing - Nader Dabit
 
+* [<b>IE University</b> - <i>Jueves 2 de Abril</i>](https://www.eventbrite.com/e/five-ways-in-which-positive-psychology-can-help-your-organization-tickets-97098996713)
+
+  - Five ways in which positive psychology can help your organization
+
 ### Hackathons
 
 - [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
