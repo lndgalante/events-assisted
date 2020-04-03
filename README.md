@@ -25,6 +25,10 @@
     Rishichandra Wawhal
   - Common Component Decomposition Pitfalls (And How To Avoid Them!) - Rob Ocel
 
+* [<b>CleanCodeBA</b> - <i>Viernes 3 de Abril</i>](https://www.meetup.com/es-ES/Clean-Code-Buenos-Aires/events/269746412/)
+
+  - Kick-off - ¿Qué es lo que viene?
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
