@@ -55,6 +55,10 @@
 
   - Five ways in which positive psychology can help your organization
 
+* [<b>LeWagon</b> - <i>Viernes 3 de Abril</i>](https://www.eventbrite.com/e/ia-machine-learning-que-son-estas-nuevas-tecnologias-tickets-101588279278)
+
+  - Inteligencia Artificial, Machine Learning y otros cuentos: ¿de qué se trata la tecnología que está cambiando al mundo? - Ivan Itzcovich
+
 ### Hackathons
 
 - [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
