@@ -67,6 +67,8 @@
 
 - [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
 
+  - 🏅First place - https://twitter.com/Mintbeanio/status/1247213054556856320
+
 ### Conferences Live
 
 ### Conferences Online
