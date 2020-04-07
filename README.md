@@ -29,6 +29,10 @@
 
   - Kick-off - ¿Qué es lo que viene?
 
+* [<b>Global GraphQL Meetup</b> - <i>Martes 7 de Abril</i>](https://www.youtube.com/watch?v=4tAhScoTbdY)
+
+  - GraphQL - Eve Porcello & Alex Banks
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
@@ -63,6 +67,10 @@
 
   - Inteligencia Artificial, Machine Learning y otros cuentos: ¿de qué se trata la tecnología que está cambiando al mundo? - Ivan Itzcovich
 
+* [<b>LeWagon</b> - <i>Martes 7 de Abril</i>](https://www.eventbrite.com/e/validacion-de-nuevas-oportunidades-de-negocios-tickets-101484238088)
+
+  - Validación de nuevas oportunidades de negocios - Karin Tenenboim Laufer
+
 ### Hackathons
 
 - [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
@@ -70,6 +78,8 @@
   - 🏅First place - https://twitter.com/Mintbeanio/status/1247213054556856320
 
 ### Conferences Live
+
+- [<b>LeadDev Live.</b> - <i>Martes 7 de Abril</i>](https://live.theleaddev.com/)
 
 ### Conferences Online
 
