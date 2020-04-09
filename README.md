@@ -71,6 +71,10 @@
 
   - Validación de nuevas oportunidades de negocios - Karin Tenenboim Laufer
 
+* [<b>LeWagon</b> - <i>Jueves 9 de Abril</i>](https://www.eventbrite.com/e/data-science-como-adelantarse-a-los-hechos-matias-karlsson-de-tuten-tickets-101585131864)
+
+  - Data Science: Cómo adelantarse a los hechos - Matías Karlsson
+
 ### Hackathons
 
 - [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
