@@ -33,6 +33,11 @@
 
   - GraphQL - Eve Porcello & Alex Banks
 
+- [<b>Global GraphQL Meetup</b> - <i>Jueves 9 de Abril</i>](https://www.youtube.com/watch?v=HOYcJ2lrvXI)
+
+  - Modern Forms in React - Erik Rasmussen
+  - Microfrontends: Smaller, Faster, Stronger - Pablo Nevares
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
