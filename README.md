@@ -80,6 +80,10 @@
 
   - Data Science: Cómo adelantarse a los hechos - Matías Karlsson
 
+* [<b>MintBean</b> - <i>Martes 14 de Abril</i>](https://www.eventbrite.com.ar/x/hireside-what-we-learned-from-evaluating-over-500-developers-remotely-registration-101816174920)
+
+  - HireSide: What we learned from evaluating over 500 developers remotely?
+
 ### Hackathons
 
 - [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
@@ -89,6 +93,8 @@
 ### Conferences Live
 
 - [<b>LeadDev Live.</b> - <i>Martes 7 de Abril</i>](https://live.theleaddev.com/)
+
+- [<b>LockDown Conf</b> - <i>Martes 14 de Abril</i>](https://www.freecodecamp.org/news/lockdownconf-free-developer-conference/)
 
 ### Conferences Online
 
