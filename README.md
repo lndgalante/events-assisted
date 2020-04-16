@@ -96,15 +96,16 @@
 
 - [<b>LockDown Conf</b> - <i>Martes 14 de Abril</i>](https://www.freecodecamp.org/news/lockdownconf-free-developer-conference/)
 
+- [<b>MagnoliaJS</b> - <i>Jueves 15 y Viernes 17 de Abril</i>](https://magnoliajs.com/)
+
 ### Conferences Online
 
 - [<b>The Legacy of Socrates</b> - <i>Miércoles 1 de Abril</i>](https://www.crowdcast.io/e/the-legacy-of-socrates)
-
-- @w3ltraumpirat - 🎙Choking the Monolith − The Strangler Pattern Applied
-- @etagwerker - 🎙Escaping the Tar Pit
-- @Cairolali - 🎙Improving Legacy
-- @jbrains - 🎙3 Great Opportunities from Legacy Code
-- @khaledsouf - 🎙Applied DDD on Legacy Code
+  - @w3ltraumpirat - 🎙Choking the Monolith − The Strangler Pattern Applied
+  - @etagwerker - 🎙Escaping the Tar Pit
+  - @Cairolali - 🎙Improving Legacy
+  - @jbrains - 🎙3 Great Opportunities from Legacy Code
+  - @khaledsouf - 🎙Applied DDD on Legacy Code
 
 ## `2 0 1 9`
 
