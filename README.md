@@ -96,7 +96,9 @@
 
 - [<b>LockDown Conf</b> - <i>Martes 14 de Abril</i>](https://www.freecodecamp.org/news/lockdownconf-free-developer-conference/)
 
-- [<b>MagnoliaJS</b> - <i>Jueves 15 y Viernes 17 de Abril</i>](https://magnoliajs.com/)
+- [<b>MagnoliaJS</b> - <i>Jueves 16 y Viernes 17 de Abril</i>](https://magnoliajs.com/)
+
+- [<b>React Summit</b> - <i>Viernes 17 de Abril</i>](https://reactsummit.com/)
 
 ### Conferences Online
 
