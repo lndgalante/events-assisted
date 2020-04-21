@@ -84,6 +84,10 @@
 
   - HireSide: What we learned from evaluating over 500 developers remotely?
 
+* [<b>The Software House</b> - <i>Martes 21 de Abril</i>](https://app.livestorm.co/the-software-house/microservices-for-tech-managers-fireside-chat)
+
+  - State of Microservices 2020: Fireside chat for CTOs
+
 ### Hackathons
 
 - [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
