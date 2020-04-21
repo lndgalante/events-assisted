@@ -88,6 +88,10 @@
 
   - State of Microservices 2020: Fireside chat for CTOs
 
+* [<b>Product School</b> - <i>Martes 21 de Abril</i>](https://www.linkedin.com/video/live/urn:li:ugcPost:6658430717455806464/)
+
+  - How to apply PM principles to your life - Joyce Bao
+
 ### Hackathons
 
 - [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
