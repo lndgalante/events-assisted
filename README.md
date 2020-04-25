@@ -92,6 +92,10 @@
 
   - How to apply PM principles to your life - Joyce Bao
 
+### Workshops
+
+- [<b>Mastering Node.js</b> - <i>Sábado 25 de Abril</i>](https://www.linkedin.com/feed/update/urn:li:activity:6654343309084934144/)
+
 ### Hackathons
 
 - [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
@@ -100,22 +104,19 @@
 
 ### Conferences Live
 
-- [<b>LeadDev Live.</b> - <i>Martes 7 de Abril</i>](https://live.theleaddev.com/)
-
-- [<b>LockDown Conf</b> - <i>Martes 14 de Abril</i>](https://www.freecodecamp.org/news/lockdownconf-free-developer-conference/)
-
-- [<b>MagnoliaJS</b> - <i>Jueves 16 y Viernes 17 de Abril</i>](https://magnoliajs.com/)
-
-- [<b>React Summit</b> - <i>Viernes 17 de Abril</i>](https://reactsummit.com/)
-
 ### Conferences Online
 
 - [<b>The Legacy of Socrates</b> - <i>Miércoles 1 de Abril</i>](https://www.crowdcast.io/e/the-legacy-of-socrates)
-  - @w3ltraumpirat - 🎙Choking the Monolith − The Strangler Pattern Applied
-  - @etagwerker - 🎙Escaping the Tar Pit
-  - @Cairolali - 🎙Improving Legacy
-  - @jbrains - 🎙3 Great Opportunities from Legacy Code
-  - @khaledsouf - 🎙Applied DDD on Legacy Code
+
+* [<b>LeadDev Live.</b> - <i>Martes 7 de Abril</i>](https://live.theleaddev.com/)
+
+* [<b>LockDown Conf</b> - <i>Martes 14 de Abril</i>](https://www.freecodecamp.org/news/lockdownconf-free-developer-conference/)
+
+* [<b>MagnoliaJS</b> - <i>Jueves 16 y Viernes 17 de Abril</i>](https://magnoliajs.com/)
+
+* [<b>React Summit</b> - <i>Viernes 17 de Abril</i>](https://reactsummit.com/)
+
+* [<b>Women of React</b> - <i>Sábado 25 de Abril</i>](https://womenofreact.com/)
 
 ## `2 0 1 9`
 
