@@ -92,6 +92,10 @@
 
   - How to apply PM principles to your life - Joyce Bao
 
+* [<b>Belatrix</b> - <i>Martes 28 de Abril</i>](https://www.belatrixsf.com/webinars/pruebas-continuas-cypress-era-devops/)
+
+  - Pruebas continuas con Cypress en la era de DevOps - Willy De La Cruz
+
 ### Workshops
 
 - [<b>Mastering Node.js</b> - <i>Sábado 25 de Abril</i>](https://www.linkedin.com/feed/update/urn:li:activity:6654343309084934144/)
