@@ -100,6 +100,10 @@
 
 - [<b>Mastering Node.js</b> - <i>Sábado 25 de Abril</i>](https://www.linkedin.com/feed/update/urn:li:activity:6654343309084934144/)
 
+- [<b>devs & dev-ops Mendoza</b> - <i>Sábado 25 de Abril</i>](https://www.meetup.com/es-ES/dev-dev-ops-Mendoza/events/270035075/)
+
+  - Workshop de React 2020: de 0 a producción - Matias Chomicki
+
 ### Hackathons
 
 - [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
