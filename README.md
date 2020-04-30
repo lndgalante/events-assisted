@@ -21,8 +21,7 @@
 
 * [<b>This Dot Media - Global React Meetup</b> - <i>Jueves 12 de Marzo</i>](https://www.youtube.com/watch?v=sWGXQGGIKNg)
 
-  - Building a production-ready offline first React App with Hasura & RxDB -
-    Rishichandra Wawhal
+  - Building a production-ready offline first React App with Hasura & RxDB - Rishichandra Wawhal
   - Common Component Decomposition Pitfalls (And How To Avoid Them!) - Rob Ocel
 
 * [<b>CleanCodeBA</b> - <i>Viernes 3 de Abril</i>](https://www.meetup.com/es-ES/Clean-Code-Buenos-Aires/events/269746412/)
@@ -37,6 +36,10 @@
 
   - Modern Forms in React - Erik Rasmussen
   - Microfrontends: Smaller, Faster, Stronger - Pablo Nevares
+
+- [<b>IDF Buenos Aires</b> - <i>Jueves 30 de Abril</i>](https://www.meetup.com/es-ES/IDF-Buenos-Aires/events/270303316/)
+
+  - How to be a facilitator - Brittni Bowering
 
 ### Webinars
 
