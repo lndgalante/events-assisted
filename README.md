@@ -129,6 +129,8 @@
 
 * [<b>Women of React</b> - <i>Sábado 25 de Abril</i>](https://womenofreact.com/)
 
+* [<b>Byteconf React 2020</b> - <i>Viernes 1 de Mayo</i>](https://www.bytesized.xyz/react-2020)
+
 ## `2 0 1 9`
 
 ### Meetups
