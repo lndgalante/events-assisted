@@ -41,6 +41,10 @@
 
   - How to be a facilitator - Brittni Bowering
 
+  * [<b>CleanCodeBA</b> - <i>Viernes 3 de Abril</i>](https://www.meetup.com/es-ES/Clean-Code-Buenos-Aires/events/270248978/)
+
+  - Clean Code Kata!
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
@@ -101,7 +105,7 @@
 
 ### Workshops
 
-- [<b>Mastering Node.js</b> - <i>Sábado 25 de Abril</i>](https://www.linkedin.com/feed/update/urn:li:activity:6654343309084934144/)
+- [<b>Mastering Node.js - Part I</b> - <i>Sábado 25 de Abril y Sábado 2 de Mayo</i>](https://www.linkedin.com/feed/update/urn:li:activity:6654343309084934144/)
 
 - [<b>devs & dev-ops Mendoza</b> - <i>Sábado 25 de Abril</i>](https://www.meetup.com/es-ES/dev-dev-ops-Mendoza/events/270035075/)
 
@@ -121,15 +125,15 @@
 
 * [<b>LeadDev Live.</b> - <i>Martes 7 de Abril</i>](https://live.theleaddev.com/)
 
-* [<b>LockDown Conf</b> - <i>Martes 14 de Abril</i>](https://www.freecodecamp.org/news/lockdownconf-free-developer-conference/)
+- [<b>LockDown Conf</b> - <i>Martes 14 de Abril</i>](https://www.freecodecamp.org/news/lockdownconf-free-developer-conference/)
 
 * [<b>MagnoliaJS</b> - <i>Jueves 16 y Viernes 17 de Abril</i>](https://magnoliajs.com/)
 
-* [<b>React Summit</b> - <i>Viernes 17 de Abril</i>](https://reactsummit.com/)
+- [<b>React Summit</b> - <i>Viernes 17 de Abril</i>](https://reactsummit.com/)
 
 * [<b>Women of React</b> - <i>Sábado 25 de Abril</i>](https://womenofreact.com/)
 
-* [<b>Byteconf React 2020</b> - <i>Viernes 1 de Mayo</i>](https://www.bytesized.xyz/react-2020)
+- [<b>Byteconf React 2020</b> - <i>Viernes 1 de Mayo y Sábado 2 de Mayo</i>](https://www.bytesized.xyz/react-2020)
 
 ## `2 0 1 9`
 
