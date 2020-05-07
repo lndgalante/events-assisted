@@ -45,6 +45,10 @@
 
   - Clean Code Kata!
 
+  * [<b>Innovid</b> - <i>Martes 5 de Mayo</i>](https://www.eventbrite.com/e/serverless-de-0-a-millones-de-pedidos-por-dia-tickets-103934735592)
+
+  - Serverless, de 0 a Millones de pedidos por día
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
