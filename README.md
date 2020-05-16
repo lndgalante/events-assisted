@@ -49,6 +49,8 @@
 
   - Serverless, de 0 a Millones de pedidos por día
 
+- [<b>Jamstack FTW</b> - <i>Viernes 15 de Mayo</i>](https://www.crowdcast.io/e/jamstack-ftw/1)
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
@@ -140,6 +142,8 @@
 - [<b>Byteconf React 2020</b> - <i>Viernes 1 de Mayo y Sábado 2 de Mayo</i>](https://www.bytesized.xyz/react-2020)
 
 * [<b>The Legacy of Socrates</b> - <i>Jueves 14 de Mayo</i>](https://www.crowdcast.io/e/the-legacy-of-socrates--)
+
+* [<b>WTM-GDG Connect Day 2020</b> - <i>Sábado 16 de Mayo</i>](https://www.meetup.com/es-ES/GDG-CORDOBA-AR/events/270531140)
 
 ## `2 0 1 9`
 
