@@ -51,6 +51,8 @@
 
 - [<b>Jamstack FTW</b> - <i>Viernes 15 de Mayo</i>](https://www.crowdcast.io/e/jamstack-ftw/1)
 
+- [<b>MeetupJS #59</b> - <i>Miércoles 27 de Mayo</i>](https://www.youtube.com/watch?v=YIlbJ42M1iE)
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
@@ -144,6 +146,8 @@
 * [<b>The Legacy of Socrates</b> - <i>Jueves 14 de Mayo</i>](https://www.crowdcast.io/e/the-legacy-of-socrates--)
 
 * [<b>WTM-GDG Connect Day 2020</b> - <i>Sábado 16 de Mayo</i>](https://www.meetup.com/es-ES/GDG-CORDOBA-AR/events/270531140)
+
+* [<b>ForwardJS</b> - <i>Miércoles 27 de Mayo, Jueves 28 de Mayo</i>](https://forwardjs.com/)
 
 ## `2 0 1 9`
 
