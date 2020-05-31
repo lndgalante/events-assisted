@@ -149,6 +149,8 @@
 
 * [<b>ForwardJS</b> - <i>Miércoles 27 de Mayo, Jueves 28 de Mayo</i>](https://forwardjs.com/)
 
+* [<b>Node.js Global Summit Online</b> - <i>Sábado 30 de Mayo, Domingo 31 de Mayo</i>](https://geekle.us/)
+
 ## `2 0 1 9`
 
 ### Meetups
