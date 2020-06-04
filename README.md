@@ -111,6 +111,10 @@
 
   - Pruebas continuas con Cypress en la era de DevOps - Willy De La Cruz
 
+* [<b>The Software House</b> - <i>Jueves 4 de Junio</i>](https://tsh.io/resources/webinar/react-development-web-mobile/)
+
+  - 2 in 1: React development for web and mobile - Andrzej Hanusek
+
 ### Workshops
 
 - [<b>Mastering Node.js - Part I</b> - <i>Sábado 25 de Abril y Sábado 2 de Mayo</i>](https://www.linkedin.com/feed/update/urn:li:activity:6654343309084934144/)
