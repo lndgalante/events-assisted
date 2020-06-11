@@ -53,6 +53,20 @@
 
 - [<b>MeetupJS #59</b> - <i>Miércoles 27 de Mayo</i>](https://www.youtube.com/watch?v=YIlbJ42M1iE)
 
+- [<b>BaNode</b> - <i>Viernes 5 de Junio</i>](https://www.meetup.com/es-ES/banodejs/events/270898262)
+
+  - GraphQL y Node.js - Julian Duque
+
+  * Administrar permisos con GraphQL - Rogger Valverde
+
+- [<b>MontevideoJS</b> - <i>Jueves 11 de Julio</i>](https://www.meetup.com/es-ES/montevideojs/events/271022594/)
+
+  - Node vs Deno by Yoelvis Mulen @ymulenll
+
+  * Tips sobre Trabajo remoto by Grabriel Chertok @iamcherta
+
+  - Observables y Operadores by Damian Sire @damiansire
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
@@ -114,6 +128,8 @@
 * [<b>The Software House</b> - <i>Jueves 4 de Junio</i>](https://tsh.io/resources/webinar/react-development-web-mobile/)
 
   - 2 in 1: React development for web and mobile - Andrzej Hanusek
+
+* [<b>24 hours of UX</b> - <i>Miércoles 9 de Junio</i>](https://hopin.to/events/24-hours-of-ux)
 
 ### Workshops
 
