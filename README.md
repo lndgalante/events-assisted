@@ -171,6 +171,10 @@
 
 * [<b>Node.js Global Summit Online</b> - <i>Sábado 30 de Mayo, Domingo 31 de Mayo</i>](https://geekle.us/)
 
+* [<b>Developer Week</b> - <i>Jueves 17 de Junio</i>](https://www.developerweek.com/)
+
+* [<b>JS Nation</b> - <i>Jueves 18 de Junio, Viernes 19 de Junio</i>](https://live.jsnation.com/)
+
 ## `2 0 1 9`
 
 ### Meetups
