@@ -175,6 +175,8 @@
 
 * [<b>JS Nation</b> - <i>Jueves 18 de Junio, Viernes 19 de Junio</i>](https://live.jsnation.com/)
 
+* [<b>Ioniconf 2020</b> - <i>Viernes 24 de Junio</i>](https://ionicframework.com)
+
 ## `2 0 1 9`
 
 ### Meetups
