@@ -139,6 +139,8 @@
 
   - Workshop de React 2020: de 0 a producción - Matias Chomicki
 
+- [<b>ClassyNarwhal - Time Management & Productivity Workshop</b> - <i>Miércoles 8 de Julio</i>](https://www.eventbrite.com/e/time-management-productivity-workshop-tickets-107288137708)
+
 ### Hackathons
 
 - [<b>Mintbean Hackathon</b> - <i>Sábado 29 de Marzo</i>](https://github.com/MintbeanHackathons/2020-03-28-HackTheResume)
