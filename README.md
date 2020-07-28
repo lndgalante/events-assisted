@@ -179,6 +179,8 @@
 
 * [<b>Ioniconf 2020</b> - <i>Viernes 24 de Junio</i>](https://ionicframework.com)
 
+* [<b>Jump!</b> - <i>Sábado 18 de Julio</i>](https://www.vamosalajump.com)
+
 ## `2 0 1 9`
 
 ### Meetups
