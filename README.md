@@ -67,6 +67,10 @@
 
   - Observables y Operadores by Damian Sire @damiansire
 
+- [<b>MeetupJS #61</b> - <i>Miércoles 29 de Julio</i>](https://www.youtube.com/watch?v=WWCxVQGbSGc)
+
+- [<b>ProductTank & Naranja X</b> - <i>Jueves 30 de Julio</i>](https://www.youtube.com/watch?v=ozcmczeVlPs)
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
