@@ -71,6 +71,10 @@
 
 - [<b>ProductTank & Naranja X</b> - <i>Jueves 30 de Julio</i>](https://www.youtube.com/watch?v=ozcmczeVlPs)
 
+- [<b>TestingUY</b> - <i>Martes 4 de Agosto</i>](https://www.youtube.com/watch?v=fw4WPDqT7Go)
+
+  - Encontrando tu voz durante las transformaciones ágiles - Fanny Gallardo
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
