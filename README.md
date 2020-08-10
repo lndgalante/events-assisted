@@ -75,6 +75,18 @@
 
   - Encontrando tu voz durante las transformaciones ágiles - Fanny Gallardo
 
+- [<b>TestingUY</b> - <i>Martes 4 de Agosto</i>](https://www.youtube.com/watch?v=fw4WPDqT7Go)
+
+  - Encontrando tu voz durante las transformaciones ágiles - Fanny Gallardo
+
+- [<b>Dev/Remoto</b> - <i>Jueves 6 de Agosto</i>](https://www.eventbrite.com/e/devremoto-tickets-114963492902)
+
+* [<b>JS Montevideo</b> - <i>Jueves 6 de Agosto</i>](https://www.meetup.com/es-ES/montevideojs/events/272259536)
+
+  - React Query: Redux is not everything by @Nicolás Santos
+  - ClojureScript by @Maurício Eduardo Chicupo Szabo
+  - Hablemos sin saber: Serverless\* moderado por Gabriel Chertok
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
