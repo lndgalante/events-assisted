@@ -87,6 +87,11 @@
   - ClojureScript by @Maurício Eduardo Chicupo Szabo
   - Hablemos sin saber: Serverless\* moderado por Gabriel Chertok
 
+* [<b>ReacBA</b> - <i>Jueves 13 de Agosto</i>](https://www.meetup.com/es-ES/React-en-Buenos-Aires/events/272344686/)
+
+  - Estilos consistentes en React Native - Mateo Silguero
+  - Hooks como alternativa a Redux en aplicaciones medianas - Diego Pedro
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
@@ -240,7 +245,7 @@
     Lareu
   - Tecleando con JavaScript ATR - Juan Scolari
 
-- [<b>ReactJS</b> - <i>Martes 12 de Noviembre - Wolox - Juana Azurduy 2440</i>](https://www.meetup.com/es-ES/React-en-Buenos-Aires/events/266209513/)
+- [<b>ReactBA</b> - <i>Martes 12 de Noviembre - Wolox - Juana Azurduy 2440</i>](https://www.meetup.com/es-ES/React-en-Buenos-Aires/events/266209513/)
 
   - Integrando React con GraphQL - Lucas Zibell
   - La web para todos: Intro a la accesibilidad web - Grecia Marin y Alejandro
@@ -403,7 +408,7 @@
   - Rompiendo el mundo binario con Vue.js - Ignacio Anaya
   - Lo que viene en fútbol de primera Next.js 2.0 - Dan Zajdband
 
-* [<b>ReactJS</b> - <i>Miércoles 1 de Marzo - Restorando HQ - Vuelta de Obligado 1947</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/237502568)
+* [<b>ReactBA</b> - <i>Miércoles 1 de Marzo - Restorando HQ - Vuelta de Obligado 1947</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/237502568)
 
   - Creando una app en 2 meses con React Native - Gabriel Miranda
 
@@ -422,7 +427,7 @@
   - PostCSS... o CSS con esteroides - Lourdes Montano
   - Seguridad en Aplicaciones Node.js - Alejandro Oviedo
 
-* [<b>ReactJS</b> - <i>Miércoles 30 de Marzo - DigitalHouse - Lima 1111</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/238221835)
+* [<b>ReactBA</b> - <i>Miércoles 30 de Marzo - DigitalHouse - Lima 1111</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/238221835)
 
   - Un paseo por sobre la locura - Alejandro Hernández
   - Introducción a Jest - Lautaro Gruss
@@ -432,7 +437,7 @@
   - Probablemente necesites GraphQL - Belen Curcio
   - GraphQL real-time con Subscriptions - Julio Olivera
 
-* [<b>ReactJS</b> - <i>Miércoles 5 de Abril - MuleSoft - Juana Manso 999 6to piso</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/238854265)
+* [<b>ReactBA</b> - <i>Miércoles 5 de Abril - MuleSoft - Juana Manso 999 6to piso</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/238854265)
 
   - Performance Engineering con React + Redux - Juan Cazala
 
@@ -457,12 +462,12 @@
     Lester
   - Flow(type) for the Brave & True - Mariano Cortesi
 
-- [<b>ReactJS</b> - <i>Miércoles 8 de Junio - GlobalLogic - Av. Corrientes 485</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/240295544)
+- [<b>ReactBA</b> - <i>Miércoles 8 de Junio - GlobalLogic - Av. Corrientes 485</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/240295544)
 
   - Introducción a Next.js, Blazing fast server rendered react apps - Gabriel
     Miranda
 
-* [<b>ReactJS</b> - <i>Miércoles 14 de Junio - Medallia - Humboldt 1550</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/240536898)
+* [<b>ReactBA</b> - <i>Miércoles 14 de Junio - Medallia - Humboldt 1550</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/240536898)
 
   - ClojureScript con ReactJS - Nicolás Berger
 
@@ -475,7 +480,7 @@
 
   - React Fiber: Una mirada al futuro de React - Claudio Nieva Scarpatti
 
-- [<b>ReactJS</b> - <i>Martes 4 de Julio - QuadMinds - Araoz 1146</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/241086867)
+- [<b>ReactBA</b> - <i>Martes 4 de Julio - QuadMinds - Araoz 1146</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/241086867)
 
   - Utilizando componentes de D3 en React + Redux + Sagas - Javier Caste
 
@@ -537,7 +542,7 @@
   - Lecciones aprendidas desarrollando la app de AeroMéxico con React Native -
     Ronald Mendez, Alan Dawidowicz y Fabricio Mouzo
 
-* [<b>ReactJS</b> - <i>Martes 24 de Octrubre - Wolox - Guemes 4673</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/243864748)
+* [<b>ReactBA</b> - <i>Martes 24 de Octrubre - Wolox - Guemes 4673</i>](https://www.meetup.com/es-ES/React-js-en-Buenos-Aires/events/243864748)
 
   - ReactJS Performance Tips - Manuel Battan
 
