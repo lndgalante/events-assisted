@@ -92,6 +92,8 @@
   - Estilos consistentes en React Native - Mateo Silguero
   - Hooks como alternativa a Redux en aplicaciones medianas - Diego Pedro
 
+- [<b>ProductTank & Ualá</b> - <i>Jueves 20 de Agosto</i>](https://www.youtube.com/watch?v=RYdMz34UCr0)
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
