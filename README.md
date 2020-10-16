@@ -216,6 +216,8 @@
 
 * [<b>Jump!</b> - <i>Sábado 18 de Julio</i>](https://www.vamosalajump.com)
 
+* [<b>React Live</b> - <i>Viernes 11 de Septiembre</i>](https://www.reactlive.nl)
+
 ## `2 0 1 9`
 
 ### Meetups
