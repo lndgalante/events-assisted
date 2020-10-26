@@ -218,6 +218,8 @@
 
 * [<b>React Live</b> - <i>Viernes 11 de Septiembre</i>](https://www.reactlive.nl)
 
+* [<b>DevReach | React Track</b> - <i>Martes 20 de Octubre</i>](https://www.telerik.com/devreach/online/agenda-tuesday#sessions)
+
 ## `2 0 1 9`
 
 ### Meetups
