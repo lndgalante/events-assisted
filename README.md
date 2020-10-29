@@ -162,6 +162,13 @@
 
 * [<b>24 hours of UX</b> - <i>Miércoles 9 de Junio</i>](https://hopin.to/events/24-hours-of-ux)
 
+* [<b>This Dot Media - JavaScript Marathon</b> - <i>Miércoles 28 de Marzo</i>](https://www.youtube.com/watch?v=vAU7v1rd9g0&list=PL-G5r6j4GptFfqtxA4fApQtcJBWxbch8o)
+
+  - React Hooks 201 - Kyle Hill
+  - TypeScript for Beginners - Dacey Nolan
+  - Automating GraphQL Client Code Generation - Kevin Wolf
+  - Building GraphQL Resolvers - Josh Oppenheim
+
 ### Workshops
 
 - [<b>Mastering Node.js - Part I</b> - <i>Sábado 25 de Abril y Sábado 2 de Mayo</i>](https://www.linkedin.com/feed/update/urn:li:activity:6654343309084934144/)
@@ -219,6 +226,8 @@
 * [<b>React Live</b> - <i>Viernes 11 de Septiembre</i>](https://www.reactlive.nl)
 
 * [<b>DevReach | React Track</b> - <i>Martes 20 de Octubre</i>](https://www.telerik.com/devreach/online/agenda-tuesday#sessions)
+
+* [<b>Next.js Conf</b> - <i>Miércoles 27 de Octubre</i>](https://nextjs.org/conf)
 
 ## `2 0 1 9`
 
