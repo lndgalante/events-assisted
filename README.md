@@ -98,6 +98,10 @@
 
   - Workshop Introducción a Next.js - Sebastián Veggiani
 
+* [<b>Global GraphQL Meetupa - This Dot Media</b> - <i>Martes 10 de Noviembre</i>](https://www.youtube.com/watch?v=-QAHfLNuVxU)
+
+  - Urlql the highly customizable GraphQL client - Ryan Gilbert
+
 ### Webinars
 
 - [<b>Creando Animaciones en React Native</b> - <i>Viernes 31 de Enero</i>](https://www.belatrixsf.com/webinars/creando-animaciones-en-react-native)
