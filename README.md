@@ -173,6 +173,8 @@
   - Automating GraphQL Client Code Generation - Kevin Wolf
   - Building GraphQL Resolvers - Josh Oppenheim
 
+* [<b>Getting Started with GraphQL</b> - <i>Jueves 19 de Marzo</i>](https://www.crowdcast.io/e/getting-started-with-71/1)
+
 ### Workshops
 
 - [<b>Mastering Node.js - Part I</b> - <i>Sábado 25 de Abril y Sábado 2 de Mayo</i>](https://www.linkedin.com/feed/update/urn:li:activity:6654343309084934144/)
@@ -205,7 +207,7 @@
 
 * [<b>MagnoliaJS</b> - <i>Jueves 16 y Viernes 17 de Abril</i>](https://magnoliajs.com/)
 
-- [<b>React Summit</b> - <i>Viernes 17 de Abril</i>](https://reactsummit.com/)
+- [<b>React Summit Remote Edition</b> - <i>Viernes 17 de Abril</i>](https://reactsummit.com/)
 
 * [<b>Women of React</b> - <i>Sábado 25 de Abril</i>](https://womenofreact.com/)
 
@@ -232,6 +234,8 @@
 * [<b>DevReach | React Track</b> - <i>Martes 20 de Octubre</i>](https://www.telerik.com/devreach/online/agenda-tuesday#sessions)
 
 * [<b>Next.js Conf</b> - <i>Miércoles 27 de Octubre</i>](https://nextjs.org/conf)
+
+- [<b>React Summit 2020</b> - <i>Jueves 15 de Octubre</i>](https://reactsummit.com/)
 
 ## `2 0 1 9`
 
