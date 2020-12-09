@@ -237,6 +237,8 @@
 
 - [<b>React Summit 2020</b> - <i>Jueves 15 de Octubre</i>](https://reactsummit.com/)
 
+- [<b>Reactathon</b> - <i>7, 8 y 9 de Diciembre</i>](https://www.reactathon.com/)
+
 ## `2 0 1 9`
 
 ### Meetups
