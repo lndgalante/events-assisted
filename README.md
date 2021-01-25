@@ -2,6 +2,24 @@
 
 👨‍🏫 A list of conferences, webinars, hackathons and meetups I assisted each year
 
+## `2 0 2 1`
+
+### Meetups
+
+- [<b>devs & dev-ops Mendoza</b> - <i>Jueves 3 de Septiembre</i>](https://www.meetup.com/es-ES/dev-dev-ops-Mendoza/events/275724520/)
+
+  - Charla-taller Testing en React
+
+### Webinars
+
+### Workshops
+
+### Hackathons
+
+### Conferences Live
+
+### Conferences Online
+
 ## `2 0 2 0`
 
 ### Meetups
