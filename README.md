@@ -6,11 +6,19 @@
 
 ### Meetups
 
-- [<b>devs & dev-ops Mendoza</b> - <i>Jueves 3 de Septiembre</i>](https://www.meetup.com/es-ES/dev-dev-ops-Mendoza/events/275724520/)
+- [<b>devs & dev-ops Mendoza</b> - <i>Sábado 23 de Enero</i>](https://www.meetup.com/es-ES/dev-dev-ops-Mendoza/events/275724520/)
 
   - Charla-taller Testing en React
 
+- [<b>Certified Fresh Events</b> - <i>Jueves 11 de Febrero</i>](https://cfe.dev/sessions/accessibility-for-humans/)
+
+  - The Case for Web Accessibility - Obinna Ekwuno
+
 ### Webinars
+
+- [<b>EggHead</b> - <i>Miércoles 3 de Septiembre</i>]()
+
+  - Taylor & Kevin Continue Building a Table
 
 ### Workshops
 
