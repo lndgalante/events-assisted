@@ -14,6 +14,10 @@
 
   - The Case for Web Accessibility - Obinna Ekwuno
 
+- [<b>Garaje de Ideas</b> - <i>Jueves 25 de Febrero</i>](https://www.linkedin.com/events/puedeeldise-ohacersexylaenerg-a6764901136425070592/)
+
+  - ¿Puede el diseño hacer sexy la energía? - Cristina González Bermejo
+
 ### Webinars
 
 - [<b>EggHead</b> - <i>Miércoles 3 de Septiembre</i>]()
@@ -27,6 +31,8 @@
 ### Conferences Live
 
 ### Conferences Online
+
+- [<b>JS World Conference</b> - <i>22 al 27 de Febrero</i>](https://frontenddeveloperlove.com/)
 
 ## `2 0 2 0`
 
