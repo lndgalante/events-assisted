@@ -26,6 +26,10 @@
 
 ### Workshops
 
+- [<b>GitHub Community Events</b> - <i>Jueves 25 de Febrero</i>](https://github.community/t/workshop-leveling-up-your-engineering-career/155038)
+
+  - Leveling-up Your Engineering Career - Dan Klos
+
 ### Hackathons
 
 ### Conferences Live
