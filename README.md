@@ -18,6 +18,10 @@
 
   - ¿Puede el diseño hacer sexy la energía? - Cristina González Bermejo
 
+- [<b>ThisDot</b> - <i>Jueves 11 de Marzo</i>](https://www.youtube.com/watch?v=n8N6mQD-jrA)
+
+  - State of React Ecosytem
+
 ### Webinars
 
 - [<b>EggHead</b> - <i>Miércoles 3 de Septiembre</i>]()
