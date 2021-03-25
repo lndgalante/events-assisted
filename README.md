@@ -22,6 +22,13 @@
 
   - State of React Ecosytem
 
+- [<b>ThisDot</b> - <i>Miércoles 24 de Marzo</i>]()
+
+  - [Functional Testing with Cypress](https://www.youtube.com/watch?v=gBNgdHcBgYM)
+  - [Developing Accessible Websites & Web-Based Apps with JavaScript](https://www.youtube.com/watch?v=q6-im761nJg)
+  - [Migrating from REST to GraphQL](https://www.youtube.com/watch?v=L7y3zQGtpIo)
+  - [Upgrade to Typescript with Vue 3](https://www.youtube.com/watch?v=I9chpwvWWNA)
+
 ### Webinars
 
 - [<b>EggHead</b> - <i>Miércoles 3 de Septiembre</i>]()
