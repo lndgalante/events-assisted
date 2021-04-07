@@ -35,7 +35,7 @@
 
   - Taylor & Kevin Continue Building a Table
 
-- [<b>Hasura</b> - <i>Miércoles 3 de Septiembre</i>]()
+- [<b>Hasura</b> - <i>Miércoles 7 de Abril</i>]()
 
   - How Pipe.com Uses Hasura To Help Companies Grow On Their Terms - Peter Drowns
 
