@@ -35,6 +35,10 @@
 
   - Taylor & Kevin Continue Building a Table
 
+- [<b>Hasura</b> - <i>Miércoles 3 de Septiembre</i>]()
+
+  - How Pipe.com Uses Hasura To Help Companies Grow On Their Terms - Peter Drowns
+
 ### Workshops
 
 - [<b>GitHub Community Events</b> - <i>Jueves 25 de Febrero</i>](https://github.community/t/workshop-leveling-up-your-engineering-career/155038)
