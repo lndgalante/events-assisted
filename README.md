@@ -29,6 +29,10 @@
   - [Migrating from REST to GraphQL](https://www.youtube.com/watch?v=L7y3zQGtpIo)
   - [Upgrade to Typescript with Vue 3](https://www.youtube.com/watch?v=I9chpwvWWNA)
 
+- [<b>ThisDot</b> - <i>Martes 20 de Abril</i>](https://www.moderndotweb.com)
+
+  - [State of Application Monitoring](https://www.youtube.com/watch?v=cwz-0j-Aa2E)
+
 ### Webinars
 
 - [<b>EggHead</b> - <i>Miércoles 3 de Septiembre</i>]()
@@ -149,7 +153,7 @@
 
   - Workshop Introducción a Next.js - Sebastián Veggiani
 
-* [<b>Global GraphQL Meetupa - This Dot Media</b> - <i>Martes 10 de Noviembre</i>](https://www.youtube.com/watch?v=-QAHfLNuVxU)
+* [<b>Global GraphQL Meetup - This Dot Media</b> - <i>Martes 10 de Noviembre</i>](https://www.youtube.com/watch?v=-QAHfLNuVxU)
 
   - Urlql the highly customizable GraphQL client - Ryan Gilbert
 
