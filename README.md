@@ -57,6 +57,8 @@
 
 - [<b>JS World Conference</b> - <i>22 al 27 de Febrero</i>](https://frontenddeveloperlove.com/)
 
+- [<b>DevX Conf</b> - <i>Miércoles 28 de Abril</i>](https://devxconf.org)
+
 ## `2 0 2 0`
 
 ### Meetups
