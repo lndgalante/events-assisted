@@ -33,6 +33,10 @@
 
   - [State of Application Monitoring](https://www.youtube.com/watch?v=cwz-0j-Aa2E)
 
+- [<b>Crowdcast</b> - <i>Jueves 29 de Abril</i>](https://www.crowdcast.io/e/building-your-community)
+
+  - Cal Evans - Building Your Community
+
 ### Webinars
 
 - [<b>EggHead</b> - <i>Miércoles 3 de Septiembre</i>]()
