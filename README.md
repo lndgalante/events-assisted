@@ -37,6 +37,10 @@
 
   - Cal Evans - Building Your Community
 
+- [<b>Speakeasy JS</b> - <i>Viernes 30 de Abril</i>](https://lu.ma/speakeasyjs?tk=zoKemW)
+
+  - Giuseppe Gurgone - Synchronizing Async Functions in Node.js
+
 ### Webinars
 
 - [<b>EggHead</b> - <i>Miércoles 3 de Septiembre</i>]()
