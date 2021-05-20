@@ -41,6 +41,8 @@
 
   - Giuseppe Gurgone - Synchronizing Async Functions in Node.js
 
+- [<b>JavaScript and Friends - Engineering Leaders Series</b> - <i>Martes 18 de Mayo</i>](https://www.eventbrite.com/x/javascript-and-friends-engineering-leaders-series-tickets-151559798437)
+
 ### Webinars
 
 - [<b>EggHead</b> - <i>Miércoles 3 de Septiembre</i>]()
@@ -66,6 +68,8 @@
 - [<b>JS World Conference</b> - <i>22 al 27 de Febrero</i>](https://frontenddeveloperlove.com/)
 
 - [<b>DevX Conf</b> - <i>Miércoles 28 de Abril</i>](https://devxconf.org)
+
+- [<b>Google I/O</b> - <i>Martes 18 de Mayo</i>](https://events.google.com/io)
 
 ## `2 0 2 0`
 
