@@ -65,7 +65,9 @@
 
 ### Conferences Online
 
-- [<b>JS World Conference</b> - <i>22 al 27 de Febrero</i>](https://frontenddeveloperlove.com/)
+- [<b>JS World Conference</b> - <i>22 al 27 de Febrero</i>](https://frontenddeveloperlove.com)
+
+- [<b>React Summit Remote Edition</b> - <i>Jueves 15 de Abril</i>](https://reactsummit.com)
 
 - [<b>DevX Conf</b> - <i>Miércoles 28 de Abril</i>](https://devxconf.org)
 
