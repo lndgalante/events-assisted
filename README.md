@@ -43,6 +43,24 @@
 
 - [<b>JavaScript and Friends - Engineering Leaders Series</b> - <i>Martes 18 de Mayo</i>](https://www.eventbrite.com/x/javascript-and-friends-engineering-leaders-series-tickets-151559798437)
 
+- [<b>Telerik - React Wednesdays</b> - <i>Miércoles 2 de Junio</i>](https://www.telerik.com/react-wednesdays)
+
+  - Paige Niedringhaus - Modernizing Enterprise React Apps
+
+  - Michael Labriola - Advanced React Context Management
+
+  - Ryan Florence - Introducing Remix
+
+  - Dave Ceddia - Guided Tour of React State Management
+
+  - Kent C. Dodds - Testing Library
+
+  - Jason Lengstorf - How Do Serverless Functions and the Jamstack Power up Your React Apps?
+
+  - Eve Porcello - Advanced GraphQL
+
+Mark Erikson - Modern Redux with Redux Toolkit
+
 ### Webinars
 
 - [<b>EggHead</b> - <i>Miércoles 3 de Septiembre</i>]()
