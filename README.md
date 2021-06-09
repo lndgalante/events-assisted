@@ -91,6 +91,8 @@ Mark Erikson - Modern Redux with Redux Toolkit
 
 - [<b>Google I/O</b> - <i>Martes 18 de Mayo</i>](https://events.google.com/io)
 
+- [<b>JSNation</b> - <i>Miércoles 9 de Junio</i>](https://live.jsnation.com)
+
 ## `2 0 2 0`
 
 ### Meetups
