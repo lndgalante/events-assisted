@@ -61,6 +61,10 @@
 
 Mark Erikson - Modern Redux with Redux Toolkit
 
+- [<b>ThisDot</b> - <i>Jueves 15 de Julio</i>](https://www.youtube.com/watch?v=kqGvPb_gLJk)
+
+  - State of React Ecosytem
+
 ### Webinars
 
 - [<b>EggHead</b> - <i>Miércoles 3 de Septiembre</i>]()
