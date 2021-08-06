@@ -97,6 +97,8 @@ Mark Erikson - Modern Redux with Redux Toolkit
 
 - [<b>JSNation</b> - <i>Miércoles 9 de Junio</i>](https://live.jsnation.com)
 
+- [<b>RoundedConf</b> - <i>Sábado 17 de Julio</i>](https://www.rounded.dev/conf)
+
 ## `2 0 2 0`
 
 ### Meetups
