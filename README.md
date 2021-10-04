@@ -69,6 +69,10 @@ Mark Erikson - Modern Redux with Redux Toolkit
 
   - State of UI
 
+- [<b>ThisDot</b> - <i>Jueves 9 de Septiembre</i>](https://www.youtube.com/watch?v=jweh2aO33RY)
+
+  - State of React Ecosytem
+
 ### Webinars
 
 - [<b>EggHead</b> - <i>Miércoles 3 de Septiembre</i>]()
