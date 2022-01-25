@@ -2,6 +2,28 @@
 
 👨‍🏫 A list of conferences, webinars, hackathons and meetups I assisted each year
 
+## `2022`
+
+> Now it's time to travel! (or not haha)
+
+- [Online - 8 February - JS World Conference Africa](https://africa.jsworldconference.com/home)
+
+  - Status: Free Ticket
+
+- [Online - 9 to 11 February - JS World Conference Amsterdam](https://jsworldconference.com/)
+
+  - Status: Free Ticket
+
+- [Online - 23 to 25 March - CityJS Conference London](https://cityjsconf.org/)
+
+- [Online - 20 to 21 April - React Global](https://events.geekle.us/react2/)
+
+- [Online - 18 to 19 April - React Miami](https://www.reactmiami.com/)
+
+- [Online - 5 to 8 May - CityJS Conference London](https://jsdaycanarias.com/)
+
+- [In person - ETH Bogota 2022](https://ethglobal.medium.com/announcing-the-ethglobal-2022-season-51a7906bb3a4)
+
 ## `2 0 2 1`
 
 ### Meetups
