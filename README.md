@@ -16,6 +16,8 @@
 
 - [Online - 23 to 25 March - CityJS Conference London](https://cityjsconf.org/)
 
+- [Online - 24 to 25 March - Remix Conf](https://remix.run/conf)
+
 - [Online - 20 to 21 April - React Global](https://events.geekle.us/react2/)
 
 - [Online - 18 to 19 April - React Miami](https://www.reactmiami.com/)
