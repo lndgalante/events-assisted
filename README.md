@@ -22,6 +22,8 @@
 
 - [Online - 18 to 19 April - React Miami](https://www.reactmiami.com/)
 
+- [In person - 29 April - TSCongress 2022](https://typescriptcongress.com)
+
 - [Online - 5 to 8 May - CityJS Conference London](https://jsdaycanarias.com/)
 
 - [In person - ETH Bogota 2022](https://ethglobal.medium.com/announcing-the-ethglobal-2022-season-51a7906bb3a4)
