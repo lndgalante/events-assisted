@@ -28,6 +28,8 @@
 
 - [In person - ETH Bogota 2022](https://ethglobal.medium.com/announcing-the-ethglobal-2022-season-51a7906bb3a4)
 
+- [In person - 6 to 7 October - Nordic.js](https://nordicjs.com/2022)
+
 ## `2 0 2 1`
 
 ### Meetups
